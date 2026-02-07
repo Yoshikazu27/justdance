@@ -111,6 +111,10 @@ button {
   font-size: 16px;
 }
 
+.btnCopy {
+  font-size: 20px;
+}
+
 @media (max-width: 991px) {
   .songDiv {
     width: calc(100% - 4% - 12px);
