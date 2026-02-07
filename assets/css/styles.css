@@ -1,0 +1,118 @@
+@font-face {
+  font-family: "JustDance";
+  src: url("../files/JustDanceBold.ttf") format("truetype");
+}
+
+* {
+  font-family: "JustDance";
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  float: left;
+  position: relative;
+  margin: 0;
+  overflow: hidden;
+}
+
+html {
+  background: linear-gradient(
+    135deg,
+    #06052f,
+    #133654,
+    #45498D
+  );
+}
+
+button {
+  background: radial-gradient(indigo, violet);
+  border-color: blueviolet;
+  color: white;
+  cursor: pointer;
+}
+
+#main-container {
+  width: 100%;
+  height: calc(100% - 30px - 1rem); /* height: calc(100% - 63px - 1rem); */
+  overflow-y: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.filter-bar {
+  width: 96%;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0.5rem 2%;
+}
+
+#txtFilter {
+  width: 70%;
+  max-width: 300px;
+  height: 30px;
+  margin-left: 0.25rem;
+  border-radius: 0%;
+  border-color: blueviolet;
+  background: linear-gradient(skyblue, turquoise);
+}
+
+#btnSearch {
+  width: 30px;
+  height: 30px;
+}
+
+.sort-bar {
+  width: 100%;
+  margin-top: 0.5rem;
+  display: flex;
+  align-items: center;
+}
+
+.sort-bar button {
+  height: 25px;
+  margin: 0 0.25rem;
+}
+
+.songDiv {
+  width: calc(100% - 4% - 12px);
+  height: auto;
+  max-height: 186px;
+  float: left;
+  background: linear-gradient(135deg, indigo, violet);
+  margin: 2%;
+  border: 6px solid turquoise;
+  display: flex;
+  justify-content: center;
+}
+
+.songDiv > img {
+  width: 120px;
+  height: 150px;
+  margin: 0.75rem;
+}
+
+.descriptionDiv {
+  width: calc(100% - 1.5rem - 1.5rem - 120px);
+  margin: 0.75rem;
+}
+
+.descriptionDiv p {
+  width: 100%;
+  margin: 0 0 0.5rem 0;
+  color: bisque;
+}
+
+.songName {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.songArtist {
+  font-size: 20px;
+}
+
+.songDifficulty {
+  font-size: 16px;
+}
