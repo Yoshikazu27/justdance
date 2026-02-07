@@ -18,12 +18,7 @@ body {
 }
 
 html {
-  background: linear-gradient(
-    135deg,
-    #06052f,
-    #133654,
-    #45498D
-  );
+  background: linear-gradient(135deg, #06052f, #133654, #45498d);
 }
 
 button {
@@ -76,7 +71,6 @@ button {
 }
 
 .songDiv {
-  width: calc(100% - 4% - 12px);
   height: auto;
   max-height: 186px;
   float: left;
@@ -115,4 +109,16 @@ button {
 
 .songDifficulty {
   font-size: 16px;
+}
+
+@media (max-width: 991px) {
+  .songDiv {
+    width: calc(100% - 4% - 12px);
+  }
+}
+
+@media (min-width: 992px) {
+  .songDiv {
+    width: calc(50% - 4% - 12px);
+  }
 }
