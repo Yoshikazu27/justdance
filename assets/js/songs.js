@@ -15,7 +15,7 @@ const txtFilter = document.getElementById("txtFilter");
 const container = document.getElementById('main-container');
 
 const initialize = () => {
-    fetch('../assets/files/songs-list.json')
+    fetch('./assets/files/songs-list.json')
         .then(response => response.json())
         .then(list => {
             list.forEach((element) => {
