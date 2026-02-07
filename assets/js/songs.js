@@ -5,9 +5,6 @@ const difficulties = [
     "EXPERT"
 ];
 
-const FADE_TIME = 3000;
-const PAUSE_TIME = 1000;
-
 const songs = [];
 
 const btnSearch = document.getElementById("btnSearch");
@@ -36,19 +33,36 @@ const showSongs = (list) => {
             const songName = createElement("p", "songName", element.name);
             const songArtist = createElement("p", "songArtist", element.artist);
             const songDifficulty = createElement("p", "songDifficulty", difficulties[element.difficulty - 1]);
+            const btnCopy = createElement("button", "btnCopy", "Copy Song");
 
             const songImg = document.createElement('img');
             songImg.src = element.image;
+
+            btnCopy.addEventListener("click", () => {
+                const text = `${element.name}`;
+                copyText(text, btnCopy);
+            });
 
             songDiv.append(songImg);
             songDiv.append(descriptionDiv);
             descriptionDiv.append(songName);
             descriptionDiv.append(songArtist);
             descriptionDiv.append(songDifficulty);
+            descriptionDiv.append(btnCopy);
             container.append(songDiv);
         }
     });
 }
+
+const copyText = (text, btn) => {
+    navigator.clipboard.writeText(text)
+        .then(() => {
+            const original = btn.innerHTML;
+            btn.innerHTML = "Copied";
+            setTimeout(() => btn.innerHTML = original, 1500);
+        })
+        .catch(err => console.error(err));
+};
 
 const filterSongs = () => {
     const textValue = txtFilter.value.toLowerCase();
@@ -67,5 +81,5 @@ initialize();
 
 txtFilter.addEventListener("keydown", (event) => {
     if(event.key === "Enter") filterSongs();
-})
+});
 btnSearch.addEventListener("click", filterSongs);
