@@ -30,7 +30,7 @@ button {
 
 #main-container {
   width: 100%;
-  height: calc(100% - 30px - 1rem); /* height: calc(100% - 63px - 1rem); */
+  height: calc(100% - 40px - 1rem); /* height: calc(100% - 63px - 1rem); */
   overflow-y: auto;
   display: flex;
   flex-wrap: wrap;
@@ -46,16 +46,17 @@ button {
 #txtFilter {
   width: 70%;
   max-width: 300px;
-  height: 30px;
+  height: 40px;
   margin-left: 0.25rem;
   border-radius: 0%;
   border-color: blueviolet;
   background: linear-gradient(skyblue, turquoise);
+  font-size: 20px;
 }
 
 #btnSearch {
-  width: 30px;
-  height: 30px;
+  width: 40px;
+  height: 40px;
 }
 
 .sort-bar {
