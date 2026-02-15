@@ -45,7 +45,7 @@
     "artist": "The Just Dance Orchestra",
     "difficulty": 2,
     "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Versailles_1718899339953/assets/web/versailles_small.jpg",
-    "available": true
+    "available": false
   },
   {
     "id": 7,
@@ -797,7 +797,7 @@
     "artist": "Electric Six",
     "difficulty": 2,
     "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/HighVoltage_1719247033964/assets/web/highvoltage_small.jpg",
-    "available": true
+    "available": false
   },
   {
     "id": 101,
@@ -1245,7 +1245,7 @@
     "artist": "Charli XCX",
     "difficulty": 1,
     "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/GoodOnes_1723042038695/assets/web/goodones_small.jpg",
-    "available": true
+    "available": false
   },
   {
     "id": 157,
@@ -2573,7 +2573,7 @@
     "artist": "Clean Bandit Ft. Jess Glynne",
     "difficulty": 3,
     "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/RatherBe_1722622180867/assets/web/ratherbe_small.jpg",
-    "available": true
+    "available": false
   },
   {
     "id": 323,
@@ -2925,7 +2925,7 @@
     "artist": "The Just Dance Orchestra",
     "difficulty": 2,
     "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/SwanLakeRemix_1718899479203/assets/web/swanlakeremix_small.jpg",
-    "available": true
+    "available": false
   },
   {
     "id": 367,
@@ -2933,7 +2933,7 @@
     "artist": "Ava Max",
     "difficulty": 2,
     "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/SweetButPsycho_1722622484505/assets/web/sweetbutpsycho_small.jpg",
-    "available": true
+    "available": false
   },
   {
     "id": 368,
@@ -3413,7 +3413,7 @@
     "artist": "Apashe Ft. Alina Pash",
     "difficulty": 2,
     "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Witch_1719246878056/assets/web/witch_small.jpg",
-    "available": true
+    "available": false
   },
   {
     "id": 428,
@@ -3549,6 +3549,54 @@
     "artist": "Bob Platine",
     "difficulty": 2,
     "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/CaPlane_1550662626108/assets/web/caplane_small.jpg",
+    "available": true
+  },
+  {
+    "id": 445,
+    "name": "Seven",
+    "artist": "Jung Kook ft. Latto",
+    "difficulty": 2,
+    "image": "https://jdn-location.justdancenow.com/songs/Seven_1767973947815/assets/web/seven_small.jpg",
+    "available": true
+  },
+  {
+    "id": 446,
+    "name": "Provenza",
+    "artist": "KAROL G",
+    "difficulty": 2,
+    "image": "https://jdn-location.justdancenow.com/songs/Provenza_1762887581212/assets/web/provenza_small.jpg",
+    "available": true
+  },
+  {
+    "id": 447,
+    "name": "Love Me Land",
+    "artist": "Zara Larsson",
+    "difficulty": 3,
+    "image": "https://jdn-location.justdancenow.com/songs/LoveMeLand_1767973889268/assets/web/lovemeland_small.jpg",
+    "available": true
+  },
+  {
+    "id": 448,
+    "name": "Todo De Ti",
+    "artist": "Rauw Alejandro",
+    "difficulty": 2,
+    "image": "https://jdn-location.justdancenow.com/songs/TodoDeTi_1770417565716/assets/web/tododeti_small.jpg",
+    "available": true
+  },
+  {
+    "id": 449,
+    "name": "Feel So Close",
+    "artist": "Calvin Harris",
+    "difficulty": 1,
+    "image": "https://jdn-location.justdancenow.com/songs/FeelSoClose_1762964851696/assets/web/feelsoclose_small.jpg",
+    "available": true
+  },
+  {
+    "id": 450,
+    "name": "Treasure",
+    "artist": "Bruno Mars",
+    "difficulty": 2,
+    "image": "https://jdn-location.justdancenow.com/songs/Treasure_1769784886690/assets/web/treasure_small.jpg",
     "available": true
   }
 ]

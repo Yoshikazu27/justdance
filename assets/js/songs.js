@@ -16,8 +16,11 @@ const initialize = () => {
         .then(response => response.json())
         .then(list => {
             list.forEach((element) => {
-                songs.push(element);
+                if (element.available) songs.push(element);
             });
+            songs.sort((a, b) =>
+                a.name.localeCompare(b.name, undefined, { sensitivity: "base" })
+            );
             showSongs(songs);
         })
         .catch(err => console.error(err));
@@ -27,30 +30,28 @@ const showSongs = (list) => {
     container.innerHTML = "";
 
     list.forEach((element) => {
-        if (element.available) {
-            const songDiv = createElement("div", "songDiv");
-            const descriptionDiv = createElement("div", "descriptionDiv");
-            const songName = createElement("p", "songName", element.name);
-            const songArtist = createElement("p", "songArtist", element.artist);
-            const songDifficulty = createElement("p", "songDifficulty", difficulties[element.difficulty - 1]);
-            const btnCopy = createElement("button", "btnCopy", "Copy Song");
+        const songDiv = createElement("div", "songDiv");
+        const descriptionDiv = createElement("div", "descriptionDiv");
+        const songName = createElement("p", "songName", element.name);
+        const songArtist = createElement("p", "songArtist", element.artist);
+        const songDifficulty = createElement("p", "songDifficulty", difficulties[element.difficulty - 1]);
+        const btnCopy = createElement("button", "btnCopy", "Copy Song");
 
-            const songImg = document.createElement('img');
-            songImg.src = element.image;
+        const songImg = document.createElement('img');
+        songImg.src = element.image;
 
-            btnCopy.addEventListener("click", () => {
-                const text = `${element.name}`;
-                copyText(text, btnCopy);
-            });
+        btnCopy.addEventListener("click", () => {
+            const text = `${element.name}`;
+            copyText(text, btnCopy);
+        });
 
-            songDiv.append(songImg);
-            songDiv.append(descriptionDiv);
-            descriptionDiv.append(songName);
-            descriptionDiv.append(songArtist);
-            descriptionDiv.append(songDifficulty);
-            descriptionDiv.append(btnCopy);
-            container.append(songDiv);
-        }
+        songDiv.append(songImg);
+        songDiv.append(descriptionDiv);
+        descriptionDiv.append(songName);
+        descriptionDiv.append(songArtist);
+        descriptionDiv.append(songDifficulty);
+        descriptionDiv.append(btnCopy);
+        container.append(songDiv);
     });
 }
 
@@ -80,6 +81,6 @@ const createElement = (element, className, htmlText = null) => {
 initialize();
 
 txtFilter.addEventListener("keydown", (event) => {
-    if(event.key === "Enter") filterSongs();
+    if (event.key === "Enter") filterSongs();
 });
 btnSearch.addEventListener("click", filterSongs);
