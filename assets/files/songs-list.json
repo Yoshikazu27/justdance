@@ -3606,5 +3606,13 @@
     "difficulty": 2,
     "image": "https://jdn-location.justdancenow.com/songs/GimmeMore_1768927857682/assets/web/gimmemore_small.jpg",
     "available": true
+  },
+  {
+    "id": 452,
+    "name": "WANNABE",
+    "artist": "ITZY",
+    "difficulty": 4,
+    "image": "https://jdn-location.justdancenow.com/songs/WannabeItzy_1771251212038/assets/web/wannabeitzy_small.jpg",
+    "available": true
   }
 ]
