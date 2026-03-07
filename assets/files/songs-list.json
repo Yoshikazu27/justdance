@@ -3614,5 +3614,21 @@
     "difficulty": 4,
     "image": "https://jdn-location.justdancenow.com/songs/WannabeItzy_1771251212038/assets/web/wannabeitzy_small.jpg",
     "available": true
+  },
+  {
+    "id": 453,
+    "name": "Can't Tame Her",
+    "artist": "Zara Larsson",
+    "difficulty": 1,
+    "image": "https://jdn-location.justdancenow.com/songs/CantTameHer_1763022225507/assets/web/canttameher_small.jpg",
+    "available": true
+  },
+  {
+    "id": 454,
+    "name": "When Will My Life Begin?",
+    "artist": "Disney's Tangled",
+    "difficulty": 1,
+    "image": "https://jdn-location.justdancenow.com/songs/WillMyLifeBegin_1762888145904/assets/web/willmylifebegin_small.jpg",
+    "available": true
   }
 ]
