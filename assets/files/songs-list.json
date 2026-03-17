@@ -981,7 +981,7 @@
     "artist": "Loreen",
     "difficulty": 1,
     "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Euphoria_1762887412318/assets/web/euphoria_small.jpg",
-    "available": true
+    "available": false
   },
   {
     "id": 124,
@@ -3629,6 +3629,14 @@
     "artist": "Disney's Tangled",
     "difficulty": 1,
     "image": "https://jdn-location.justdancenow.com/songs/WillMyLifeBegin_1762888145904/assets/web/willmylifebegin_small.jpg",
+    "available": true
+  },
+  {
+    "id": 455,
+    "name": "Trenulețul",
+    "artist": "Zdob şi Zdub & Advahov Brothers",
+    "difficulty": 2,
+    "image": "https://jdn-location.justdancenow.com/songs/Trenuletul_1762887229739/assets/web/trenuletul_small.jpg",
     "available": true
   }
 ]
