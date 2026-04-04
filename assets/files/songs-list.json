@@ -3638,5 +3638,21 @@
     "difficulty": 2,
     "image": "https://jdn-location.justdancenow.com/songs/Trenuletul_1762887229739/assets/web/trenuletul_small.jpg",
     "available": true
+  },
+  {
+    "id": 456,
+    "name": "Wasabi",
+    "artist": "Little Mix",
+    "difficulty": 2,
+    "image": "https://jdn-location.justdancenow.com/songs/Wasabi_1775070329928/assets/web/wasabi_small.jpg",
+    "available": true
+  },
+  {
+    "id": 457,
+    "name": "vampire",
+    "artist": "Olivia Rodrigo",
+    "difficulty": 2,
+    "image": "https://jdn-location.justdancenow.com/songs/Vampire_1775070374671/assets/web/vampire_small.jpg",
+    "available": true
   }
 ]
