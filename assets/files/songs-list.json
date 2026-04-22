@@ -3654,5 +3654,13 @@
     "difficulty": 2,
     "image": "https://jdn-location.justdancenow.com/songs/Vampire_1775070374671/assets/web/vampire_small.jpg",
     "available": true
+  },
+  {
+    "id": 458,
+    "name": "Chaise Longue",
+    "artist": "Wet Leg",
+    "difficulty": 2,
+    "image": "https://jdn-location.justdancenow.com/songs/ChaiseLongue_1763022288316/assets/web/chaiselongue_small.jpg",
+    "available": true
   }
 ]
