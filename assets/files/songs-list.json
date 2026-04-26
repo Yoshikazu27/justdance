@@ -3662,5 +3662,29 @@
     "difficulty": 2,
     "image": "https://jdn-location.justdancenow.com/songs/ChaiseLongue_1763022288316/assets/web/chaiselongue_small.jpg",
     "available": true
+  },
+  {
+    "id": 459,
+    "name": "All Star",
+    "artist": "Smash Mouth",
+    "difficulty": 1,
+    "image": "https://jdn-location.justdancenow.com/songs/AllStar_1775477596665/assets/web/allstar_small.jpg",
+    "available": true
+  },
+  {
+    "id": 460,
+    "name": "Espresso",
+    "artist": "Sabrina Carpenter",
+    "difficulty": 1,
+    "image": "https://jdn-location.justdancenow.com/songs/Espresso_1775477547545/assets/web/espresso_small.jpg",
+    "available": true
+  },
+  {
+    "id": 461,
+    "name": "Poker Face",
+    "artist": "Lady Gaga",
+    "difficulty": 1,
+    "image": "https://jdn-location.justdancenow.com/songs/PokerFace_1764864712700/assets/web/pokerface_small.jpg",
+    "available": true
   }
 ]
