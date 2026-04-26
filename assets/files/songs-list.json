@@ -4,7 +4,7 @@
     "name": "24K Magic",
     "artist": "Bruno Mars",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/24K_1600079320167/assets/web/24k_small.jpg",
+    "image": "24K_1600079320167/assets/web/24k_small.jpg",
     "available": true
   },
   {
@@ -12,7 +12,7 @@
     "name": "24K Magic - ALTERNATE",
     "artist": "Bruno Mars",
     "difficulty": 4,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/24KALT_1597235144379/assets/web/24kalt_small.jpg",
+    "image": "24KALT_1597235144379/assets/web/24kalt_small.jpg",
     "available": true
   },
   {
@@ -20,7 +20,7 @@
     "name": "365",
     "artist": "Zedd & Katy Perry",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/365_1590509088493/assets/web/365_small.jpg",
+    "image": "365_1590509088493/assets/web/365_small.jpg",
     "available": true
   },
   {
@@ -28,7 +28,7 @@
     "name": "A Little Party Never Killed Nobody (All We Got)",
     "artist": "Fergie Ft. Q-Tip, GoonRock",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/LittleParty_1556899400787/assets/web/littleparty_small.jpg",
+    "image": "LittleParty_1556899400787/assets/web/littleparty_small.jpg",
     "available": true
   },
   {
@@ -36,7 +36,7 @@
     "name": "A Little Party Never Killed Nobody (All We Got) - ALTERNATE",
     "artist": "Fergie Ft. Q-Tip, GoonRock",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/LittlePartyALT_1550744541621/assets/web/littlepartyalt_small.jpg",
+    "image": "LittlePartyALT_1550744541621/assets/web/littlepartyalt_small.jpg",
     "available": true
   },
   {
@@ -44,7 +44,7 @@
     "name": "A Night in the château de Versailles",
     "artist": "The Just Dance Orchestra",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Versailles_1718899339953/assets/web/versailles_small.jpg",
+    "image": "Versailles_1718899339953/assets/web/versailles_small.jpg",
     "available": false
   },
   {
@@ -52,7 +52,7 @@
     "name": "Acceptable In The 80s",
     "artist": "Calvin Harris",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Acceptable_1597235674190/assets/web/acceptable_small.jpg",
+    "image": "Acceptable_1597235674190/assets/web/acceptable_small.jpg",
     "available": true
   },
   {
@@ -60,7 +60,7 @@
     "name": "Accidentally in Love",
     "artist": "The Just Dance Kids",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/KIDSAccidentallyInLove_1598527753918/assets/web/kidsaccidentallyinlove_small.jpg",
+    "image": "KIDSAccidentallyInLove_1598527753918/assets/web/kidsaccidentallyinlove_small.jpg",
     "available": true
   },
   {
@@ -68,7 +68,7 @@
     "name": "After Party",
     "artist": "Banx and Ranx Ft. Zach Zoya",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/AfterParty_1726061643294/assets/web/afterparty_small.jpg",
+    "image": "AfterParty_1726061643294/assets/web/afterparty_small.jpg",
     "available": true
   },
   {
@@ -76,7 +76,7 @@
     "name": "Airplanes",
     "artist": "B.o.B. Ft. Hayley Williams",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Airplanes_1597235902049/assets/web/airplanes_small.jpg",
+    "image": "Airplanes_1597235902049/assets/web/airplanes_small.jpg",
     "available": true
   },
   {
@@ -84,7 +84,7 @@
     "name": "All About That Bass",
     "artist": "Meghan Trainor",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/AboutThatBass_1597235411959/assets/web/aboutthatbass_small.jpg",
+    "image": "AboutThatBass_1597235411959/assets/web/aboutthatbass_small.jpg",
     "available": true
   },
   {
@@ -92,7 +92,7 @@
     "name": "All About That Bass - ALTERNATE",
     "artist": "Meghan Trainor",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/AboutThatBassALT_1597235526207/assets/web/aboutthatbassalt_small.jpg",
+    "image": "AboutThatBassALT_1597235526207/assets/web/aboutthatbassalt_small.jpg",
     "available": true
   },
   {
@@ -100,7 +100,7 @@
     "name": "all the good girls go to hell",
     "artist": "Billie Eilish",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/AllTheGoodGirls_1613481167164/assets/web/allthegoodgirls_small.jpg",
+    "image": "AllTheGoodGirls_1613481167164/assets/web/allthegoodgirls_small.jpg",
     "available": true
   },
   {
@@ -108,7 +108,7 @@
     "name": "All You Gotta Do",
     "artist": "The Just Dance Band",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/AllYouGotta_1603889899167/assets/web/allyougotta_small.jpg",
+    "image": "AllYouGotta_1603889899167/assets/web/allyougotta_small.jpg",
     "available": true
   },
   {
@@ -116,7 +116,7 @@
     "name": "Alphabet Song",
     "artist": "The Just Dance Kids",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/KIDSABC_1598527659793/assets/web/kidsabc_small.jpg",
+    "image": "KIDSABC_1598527659793/assets/web/kidsabc_small.jpg",
     "available": true
   },
   {
@@ -124,7 +124,7 @@
     "name": "Am I Wrong",
     "artist": "Nico & Vinz",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/AmIWrong_1598459033535/assets/web/amiwrong_small.jpg",
+    "image": "AmIWrong_1598459033535/assets/web/amiwrong_small.jpg",
     "available": true
   },
   {
@@ -132,7 +132,7 @@
     "name": "Amazing Girl",
     "artist": "The Girly Team",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/MissAmazingKids_1598535817321/assets/web/missamazingkids_small.jpg",
+    "image": "MissAmazingKids_1598535817321/assets/web/missamazingkids_small.jpg",
     "available": true
   },
   {
@@ -140,7 +140,7 @@
     "name": "Animals",
     "artist": "Martin Garrix",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Animals_1598459550798/assets/web/animals_small.jpg",
+    "image": "Animals_1598459550798/assets/web/animals_small.jpg",
     "available": true
   },
   {
@@ -148,7 +148,7 @@
     "name": "Animals - ALTERNATE",
     "artist": "Martin Garrix",
     "difficulty": 4,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/AnimalsALT_1598459686132/assets/web/animalsalt_small.jpg",
+    "image": "AnimalsALT_1598459686132/assets/web/animalsalt_small.jpg",
     "available": true
   },
   {
@@ -156,7 +156,7 @@
     "name": "Another One Bites The Dust",
     "artist": "Queen",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/AnotherOne_1598459812559/assets/web/anotherone_small.jpg",
+    "image": "AnotherOne_1598459812559/assets/web/anotherone_small.jpg",
     "available": true
   },
   {
@@ -164,7 +164,7 @@
     "name": "Another One Bites The Dust - ALTERNATE",
     "artist": "Queen",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/AnotherOneALT_1598459971086/assets/web/anotheronealt_small.jpg",
+    "image": "AnotherOneALT_1598459971086/assets/web/anotheronealt_small.jpg",
     "available": true
   },
   {
@@ -172,7 +172,7 @@
     "name": "Applause",
     "artist": "Lady Gaga",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/LimaGolf1_1598530955554/assets/web/limagolf1_small.jpg",
+    "image": "LimaGolf1_1598530955554/assets/web/limagolf1_small.jpg",
     "available": true
   },
   {
@@ -180,7 +180,7 @@
     "name": "Aquarius/Let The Sunshine In",
     "artist": "The Sunlight Shakers",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Aquarius_1598460236278/assets/web/aquarius_small.jpg",
+    "image": "Aquarius_1598460236278/assets/web/aquarius_small.jpg",
     "available": true
   },
   {
@@ -188,7 +188,7 @@
     "name": "Automaton",
     "artist": "Jamiroquai",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Automaton_1598460459940/assets/web/automaton_small.jpg",
+    "image": "Automaton_1598460459940/assets/web/automaton_small.jpg",
     "available": true
   },
   {
@@ -196,7 +196,7 @@
     "name": "Automaton - ALTERNATE",
     "artist": "Jamiroquai",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/AutomatonALT_1599488975469/assets/web/automatonalt_small.jpg",
+    "image": "AutomatonALT_1599488975469/assets/web/automatonalt_small.jpg",
     "available": true
   },
   {
@@ -204,7 +204,7 @@
     "name": "Baby Girl",
     "artist": "Reggaeton",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BabyGirl_1598468305285/assets/web/babygirl_small.jpg",
+    "image": "BabyGirl_1598468305285/assets/web/babygirl_small.jpg",
     "available": true
   },
   {
@@ -212,7 +212,7 @@
     "name": "bad guy",
     "artist": "Billie Eilish",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BadGuy_1603108751304/assets/web/badguy_small.jpg",
+    "image": "BadGuy_1603108751304/assets/web/badguy_small.jpg",
     "available": true
   },
   {
@@ -220,7 +220,7 @@
     "name": "bad guy - ALTERNATE",
     "artist": "Billie Eilish",
     "difficulty": 4,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BadGuyALT_1656436922865/assets/web/badguyalt_small.jpg",
+    "image": "BadGuyALT_1656436922865/assets/web/badguyalt_small.jpg",
     "available": true
   },
   {
@@ -228,7 +228,7 @@
     "name": "Bad Habits",
     "artist": "Ed Sheeran",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BadHabits_1654532797904/assets/web/badhabits_small.jpg",
+    "image": "BadHabits_1654532797904/assets/web/badhabits_small.jpg",
     "available": true
   },
   {
@@ -236,7 +236,7 @@
     "name": "Bad Liar",
     "artist": "Selena Gomez",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BadLiar_1598465478414/assets/web/badliar_small.jpg",
+    "image": "BadLiar_1598465478414/assets/web/badliar_small.jpg",
     "available": true
   },
   {
@@ -244,7 +244,7 @@
     "name": "Bad Romance",
     "artist": "Lady Gaga",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BadRomance_1598465580666/assets/web/badromance_small.jpg",
+    "image": "BadRomance_1598465580666/assets/web/badromance_small.jpg",
     "available": true
   },
   {
@@ -252,7 +252,7 @@
     "name": "Bad Romance - ALTERNATE",
     "artist": "Lady Gaga",
     "difficulty": 4,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BadRomanceALT_1647266859973/assets/web/badromancealt_small.jpg",
+    "image": "BadRomanceALT_1647266859973/assets/web/badromancealt_small.jpg",
     "available": true
   },
   {
@@ -260,7 +260,7 @@
     "name": "Baianá",
     "artist": "Bakermat",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Baiana_1645025440145/assets/web/baiana_small.jpg",
+    "image": "Baiana_1645025440145/assets/web/baiana_small.jpg",
     "available": true
   },
   {
@@ -268,7 +268,7 @@
     "name": "Bailando",
     "artist": "Paradisio Ft. Dj Patrick Samoy",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Bailando1997_1623685452510/assets/web/bailando1997_small.jpg",
+    "image": "Bailando1997_1623685452510/assets/web/bailando1997_small.jpg",
     "available": true
   },
   {
@@ -276,7 +276,7 @@
     "name": "Balkan Blast Remix",
     "artist": "Angry Birds",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/AngryBirds_1598459431764/assets/web/angrybirds_small.jpg",
+    "image": "AngryBirds_1598459431764/assets/web/angrybirds_small.jpg",
     "available": true
   },
   {
@@ -284,7 +284,7 @@
     "name": "Bangarang",
     "artist": "Skrillex Ft. Sirah",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Bangarang_1581596021669/assets/web/bangarang_small.jpg",
+    "image": "Bangarang_1581596021669/assets/web/bangarang_small.jpg",
     "available": true
   },
   {
@@ -292,7 +292,7 @@
     "name": "Bangarang - ALTERNATE",
     "artist": "Skrillex Ft. Sirah",
     "difficulty": 4,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BangarangALT_1594384536630/assets/web/bangarangalt_small.jpg",
+    "image": "BangarangALT_1594384536630/assets/web/bangarangalt_small.jpg",
     "available": true
   },
   {
@@ -300,7 +300,7 @@
     "name": "Barbie Girl",
     "artist": "Countdown Dee's Hit Explosion",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BarbieGirl_1550769821339/assets/web/barbiegirl_small.jpg",
+    "image": "BarbieGirl_1550769821339/assets/web/barbiegirl_small.jpg",
     "available": true
   },
   {
@@ -308,7 +308,7 @@
     "name": "Beauty And A Beat",
     "artist": "Justin Bieber Ft. Nicki Minaj",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BeautyAndABeatDLC_1598466008285/assets/web/beautyandabeatdlc_small.jpg",
+    "image": "BeautyAndABeatDLC_1598466008285/assets/web/beautyandabeatdlc_small.jpg",
     "available": true
   },
   {
@@ -316,7 +316,7 @@
     "name": "Beep Beep I'm a Sheep",
     "artist": "LilDeuceDeuce ft. Black Gryph0n & TomSka",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BeepBeep_1598466120171/assets/web/beepbeep_small.jpg",
+    "image": "BeepBeep_1598466120171/assets/web/beepbeep_small.jpg",
     "available": true
   },
   {
@@ -324,7 +324,7 @@
     "name": "Believer",
     "artist": "Imagine Dragons",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Believer_1633364603634/assets/web/believer_small.jpg",
+    "image": "Believer_1633364603634/assets/web/believer_small.jpg",
     "available": true
   },
   {
@@ -332,7 +332,7 @@
     "name": "Better When I'm Dancin'",
     "artist": "Meghan Trainor",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BetterWhen_1598466190903/assets/web/betterwhen_small.jpg",
+    "image": "BetterWhen_1598466190903/assets/web/betterwhen_small.jpg",
     "available": true
   },
   {
@@ -340,7 +340,7 @@
     "name": "Big Girl (You Are Beautiful)",
     "artist": "MIKA",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BigGirl_1598466488625/assets/web/biggirl_small.jpg",
+    "image": "BigGirl_1598466488625/assets/web/biggirl_small.jpg",
     "available": true
   },
   {
@@ -348,7 +348,7 @@
     "name": "Birthday",
     "artist": "Katy Perry",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Birthday_1598466601995/assets/web/birthday_small.jpg",
+    "image": "Birthday_1598466601995/assets/web/birthday_small.jpg",
     "available": true
   },
   {
@@ -356,7 +356,7 @@
     "name": "Blinding Lights",
     "artist": "The Weeknd",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BlindingLights_1609777615999/assets/web/blindinglights_small.jpg",
+    "image": "BlindingLights_1609777615999/assets/web/blindinglights_small.jpg",
     "available": true
   },
   {
@@ -364,7 +364,7 @@
     "name": "Blinding Lights - ALTERNATE",
     "artist": "The Weeknd",
     "difficulty": 4,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BlindingLightsALT_1613499913772/assets/web/blindinglightsalt_small.jpg",
+    "image": "BlindingLightsALT_1613499913772/assets/web/blindinglightsalt_small.jpg",
     "available": true
   },
   {
@@ -372,7 +372,7 @@
     "name": "Blue (Da Ba Dee)",
     "artist": "Hit The Electro Beat",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Blue_1598466988251/assets/web/blue_small.jpg",
+    "image": "Blue_1598466988251/assets/web/blue_small.jpg",
     "available": true
   },
   {
@@ -380,7 +380,7 @@
     "name": "Bonbon",
     "artist": "Era Istrefi",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Bonbon_1598467393750/assets/web/bonbon_small.jpg",
+    "image": "Bonbon_1598467393750/assets/web/bonbon_small.jpg",
     "available": true
   },
   {
@@ -388,7 +388,7 @@
     "name": "Boogie Wonderland",
     "artist": "Groove Century",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BoogieWonderQUAT_1598467489059/assets/web/boogiewonderquat_small.jpg",
+    "image": "BoogieWonderQUAT_1598467489059/assets/web/boogiewonderquat_small.jpg",
     "available": true
   },
   {
@@ -396,7 +396,7 @@
     "name": "Boogiesaurus",
     "artist": "A. Caveman & The Backseats",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/JurassicKids_1551457529409/assets/web/jurassickids_small.jpg",
+    "image": "JurassicKids_1551457529409/assets/web/jurassickids_small.jpg",
     "available": true
   },
   {
@@ -404,7 +404,7 @@
     "name": "Boom",
     "artist": "Reggaeton Storm",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BoomDLC_1598467657770/assets/web/boomdlc_small.jpg",
+    "image": "BoomDLC_1598467657770/assets/web/boomdlc_small.jpg",
     "available": true
   },
   {
@@ -412,7 +412,7 @@
     "name": "Born This Way",
     "artist": "Lady Gaga",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BornThisWay_1598467729955/assets/web/bornthisway_small.jpg",
+    "image": "BornThisWay_1598467729955/assets/web/bornthisway_small.jpg",
     "available": true
   },
   {
@@ -420,7 +420,7 @@
     "name": "Born This Way - ALTERNATE",
     "artist": "Lady Gaga",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BornThisWayALT_1598467861324/assets/web/bornthiswayalt_small.jpg",
+    "image": "BornThisWayALT_1598467861324/assets/web/bornthiswayalt_small.jpg",
     "available": true
   },
   {
@@ -428,7 +428,7 @@
     "name": "Born To Be Wild",
     "artist": "Steppenwolf",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BornToBeWild_1694538093489/assets/web/borntobewild_small.jpg",
+    "image": "BornToBeWild_1694538093489/assets/web/borntobewild_small.jpg",
     "available": true
   },
   {
@@ -436,7 +436,7 @@
     "name": "Boy With Luv",
     "artist": "BTS (방탄소년단) Ft. Halsey",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BoyWithLuvNext_1765298473151/assets/web/boywithluvnext_small.jpg",
+    "image": "BoyWithLuvNext_1765298473151/assets/web/boywithluvnext_small.jpg",
     "available": true
   },
   {
@@ -444,7 +444,7 @@
     "name": "Boys",
     "artist": "Lizzo",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Boys_1604569296271/assets/web/boys_small.jpg",
+    "image": "Boys_1604569296271/assets/web/boys_small.jpg",
     "available": true
   },
   {
@@ -452,7 +452,7 @@
     "name": "Boys (Summertime Love)",
     "artist": "The Lemon Cubes",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BoysBoys_1598467966242/assets/web/boysboys_small.jpg",
+    "image": "BoysBoys_1598467966242/assets/web/boysboys_small.jpg",
     "available": true
   },
   {
@@ -460,7 +460,7 @@
     "name": "Boys",
     "artist": "Lizzo",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BoysALT_1572523384924/assets/web/boysalt_small.jpg",
+    "image": "BoysALT_1572523384924/assets/web/boysalt_small.jpg",
     "available": true
   },
   {
@@ -468,7 +468,7 @@
     "name": "Break Free",
     "artist": "Ariana Grande Ft. Zedd",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BreakFreeDLC_1598468085534/assets/web/breakfreedlc_small.jpg",
+    "image": "BreakFreeDLC_1598468085534/assets/web/breakfreedlc_small.jpg",
     "available": true
   },
   {
@@ -476,7 +476,7 @@
     "name": "Built For This",
     "artist": "Becky G",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BuiltForThis_1598468477687/assets/web/builtforthis_small.jpg",
+    "image": "BuiltForThis_1598468477687/assets/web/builtforthis_small.jpg",
     "available": true
   },
   {
@@ -484,7 +484,7 @@
     "name": "Butter",
     "artist": "BTS",
     "difficulty": 4,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Butter_1763021855488/assets/web/butter_small.jpg",
+    "image": "Butter_1763021855488/assets/web/butter_small.jpg",
     "available": true
   },
   {
@@ -492,7 +492,7 @@
     "name": "C'mon",
     "artist": "Ke$ha",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Cmon_1598463461549/assets/web/cmon_small.jpg",
+    "image": "Cmon_1598463461549/assets/web/cmon_small.jpg",
     "available": true
   },
   {
@@ -500,7 +500,7 @@
     "name": "Cake By The Ocean",
     "artist": "DNCE",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/CakeByTheOcean_1598461202343/assets/web/cakebytheocean_small.jpg",
+    "image": "CakeByTheOcean_1598461202343/assets/web/cakebytheocean_small.jpg",
     "available": true
   },
   {
@@ -508,7 +508,7 @@
     "name": "Cake By The Ocean - ALTERNATE",
     "artist": "DNCE",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/CakeByTheOceanALT_1598461331292/assets/web/cakebytheoceanalt_small.jpg",
+    "image": "CakeByTheOceanALT_1598461331292/assets/web/cakebytheoceanalt_small.jpg",
     "available": true
   },
   {
@@ -516,7 +516,7 @@
     "name": "Call Me Maybe",
     "artist": "Carly Rae Jepsen",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/CallMeMaybeALT_1763744114973/assets/web/callmemaybealt_small.jpg",
+    "image": "CallMeMaybeALT_1763744114973/assets/web/callmemaybealt_small.jpg",
     "available": true
   },
   {
@@ -524,7 +524,7 @@
     "name": "Calm Down",
     "artist": "Rema",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/CalmDown_1763022112197/assets/web/calmdown_small.jpg",
+    "image": "CalmDown_1763022112197/assets/web/calmdown_small.jpg",
     "available": true
   },
   {
@@ -532,7 +532,7 @@
     "name": "CAN'T STOP THE FEELING!",
     "artist": "Justin Timberlake",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/CantStopTheFeeling_1668512305514/assets/web/cantstopthefeeling_small.jpg",
+    "image": "CantStopTheFeeling_1668512305514/assets/web/cantstopthefeeling_small.jpg",
     "available": true
   },
   {
@@ -540,7 +540,7 @@
     "name": "Carmen (Ouverture)",
     "artist": "Just Dance Orchestra",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Carmen_1598462322109/assets/web/carmen_small.jpg",
+    "image": "Carmen_1598462322109/assets/web/carmen_small.jpg",
     "available": true
   },
   {
@@ -548,7 +548,7 @@
     "name": "Carnaval Boom",
     "artist": "Latino Sunset",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Samba_1598545219896/assets/web/samba_small.jpg",
+    "image": "Samba_1598545219896/assets/web/samba_small.jpg",
     "available": true
   },
   {
@@ -556,7 +556,7 @@
     "name": "Centuries",
     "artist": "Fall Out Boy",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Centuries_1762964798096/assets/web/centuries_small.jpg",
+    "image": "Centuries_1762964798096/assets/web/centuries_small.jpg",
     "available": true
   },
   {
@@ -564,7 +564,7 @@
     "name": "Cercavo Amore",
     "artist": "Emma",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Amore_1598459148828/assets/web/amore_small.jpg",
+    "image": "Amore_1598459148828/assets/web/amore_small.jpg",
     "available": true
   },
   {
@@ -572,7 +572,7 @@
     "name": "Chandelier",
     "artist": "Sia",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Chandelier_1642672877709/assets/web/chandelier_small.jpg",
+    "image": "Chandelier_1642672877709/assets/web/chandelier_small.jpg",
     "available": true
   },
   {
@@ -580,7 +580,7 @@
     "name": "Chandelier - ALTERNATE",
     "artist": "Sia",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ChandelierALT_1667300312722/assets/web/chandelieralt_small.jpg",
+    "image": "ChandelierALT_1667300312722/assets/web/chandelieralt_small.jpg",
     "available": true
   },
   {
@@ -588,7 +588,7 @@
     "name": "Cheap Thrills",
     "artist": "Sia Ft. Sean Paul",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/CheapThrills_1475494924055/assets/web/cheapthrills_small.jpg",
+    "image": "CheapThrills_1475494924055/assets/web/cheapthrills_small.jpg",
     "available": true
   },
   {
@@ -596,7 +596,7 @@
     "name": "Cheap Thrills - ALTERNATE",
     "artist": "Sia Ft. Sean Paul",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/CheapThrillsALT_1598462702502/assets/web/cheapthrillsalt_small.jpg",
+    "image": "CheapThrillsALT_1598462702502/assets/web/cheapthrillsalt_small.jpg",
     "available": true
   },
   {
@@ -604,7 +604,7 @@
     "name": "Cheerleader (Felix Jaehn Remix)",
     "artist": "OMI",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Cheerleader_1598462886584/assets/web/cheerleader_small.jpg",
+    "image": "Cheerleader_1598462886584/assets/web/cheerleader_small.jpg",
     "available": true
   },
   {
@@ -612,7 +612,7 @@
     "name": "Chiwawa - ALTERNATE",
     "artist": "Wanko Ni Mero Mero",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Barbie_1598465921930/assets/web/barbie_small.jpg",
+    "image": "Barbie_1598465921930/assets/web/barbie_small.jpg",
     "available": true
   },
   {
@@ -620,7 +620,7 @@
     "name": "Chiwawa",
     "artist": "Wanko Ni Mero Mero",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Chiwawa_1598463082547/assets/web/chiwawa_small.jpg",
+    "image": "Chiwawa_1598463082547/assets/web/chiwawa_small.jpg",
     "available": true
   },
   {
@@ -628,7 +628,7 @@
     "name": "Circus",
     "artist": "Britney Spears",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Circus_1598463183426/assets/web/circus_small.jpg",
+    "image": "Circus_1598463183426/assets/web/circus_small.jpg",
     "available": true
   },
   {
@@ -636,7 +636,7 @@
     "name": "Circus - ALTERNATE",
     "artist": "Britney Spears",
     "difficulty": 4,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/CircusALT_1598463324780/assets/web/circusalt_small.jpg",
+    "image": "CircusALT_1598463324780/assets/web/circusalt_small.jpg",
     "available": true
   },
   {
@@ -644,7 +644,7 @@
     "name": "Cola Song",
     "artist": "INNA Ft. J Balvin",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ColaSong_1598463591140/assets/web/colasong_small.jpg",
+    "image": "ColaSong_1598463591140/assets/web/colasong_small.jpg",
     "available": true
   },
   {
@@ -652,7 +652,7 @@
     "name": "Cola Song - ALTERNATE",
     "artist": "INNA Ft. J Balvin",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ColaSongALT_1598463705031/assets/web/colasongalt_small.jpg",
+    "image": "ColaSongALT_1598463705031/assets/web/colasongalt_small.jpg",
     "available": true
   },
   {
@@ -660,7 +660,7 @@
     "name": "Come On Eileen",
     "artist": "Dexy's Midnight Runners",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ComeOn_1647266409672/assets/web/comeon_small.jpg",
+    "image": "ComeOn_1647266409672/assets/web/comeon_small.jpg",
     "available": true
   },
   {
@@ -668,7 +668,7 @@
     "name": "Control Response",
     "artist": "Hyper",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ControlResponse_1750177452953/assets/web/controlresponse_small.jpg",
+    "image": "ControlResponse_1750177452953/assets/web/controlresponse_small.jpg",
     "available": true
   },
   {
@@ -676,7 +676,7 @@
     "name": "Cool For The Summer",
     "artist": "Demi Lovato",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Coolos_1598463845502/assets/web/coolos_small.jpg",
+    "image": "Coolos_1598463845502/assets/web/coolos_small.jpg",
     "available": true
   },
   {
@@ -684,7 +684,7 @@
     "name": "Copacabana",
     "artist": "Frankie Bostello",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/CopaCabana_1598463972109/assets/web/copacabana_small.jpg",
+    "image": "CopaCabana_1598463972109/assets/web/copacabana_small.jpg",
     "available": true
   },
   {
@@ -692,7 +692,7 @@
     "name": "Cosmic Party",
     "artist": "Equinox Stars",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/SpaceGirlKids_1543317092462/assets/web/spacegirlkids_small.jpg",
+    "image": "SpaceGirlKids_1543317092462/assets/web/spacegirlkids_small.jpg",
     "available": true
   },
   {
@@ -700,7 +700,7 @@
     "name": "Crazy Christmas",
     "artist": "Santa Clones",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Xmas_1598608102806/assets/web/xmas_small.jpg",
+    "image": "Xmas_1598608102806/assets/web/xmas_small.jpg",
     "available": true
   },
   {
@@ -708,7 +708,7 @@
     "name": "Crazy Little Thing Called Love",
     "artist": "Queen",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/CrazyLittle_1598464591607/assets/web/crazylittle_small.jpg",
+    "image": "CrazyLittle_1598464591607/assets/web/crazylittle_small.jpg",
     "available": true
   },
   {
@@ -716,7 +716,7 @@
     "name": "Criminal",
     "artist": "Natti Natasha & Ozuna",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Criminal_1555430974896/assets/web/criminal_small.jpg",
+    "image": "Criminal_1555430974896/assets/web/criminal_small.jpg",
     "available": true
   },
   {
@@ -724,7 +724,7 @@
     "name": "Crucified",
     "artist": "Army Of Lovers",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/CrucifiedQUAT_1598464700393/assets/web/crucifiedquat_small.jpg",
+    "image": "CrucifiedQUAT_1598464700393/assets/web/crucifiedquat_small.jpg",
     "available": true
   },
   {
@@ -732,7 +732,7 @@
     "name": "Daddy Cool",
     "artist": "Groove Century",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/DaddyCool_1598465248788/assets/web/daddycool_small.jpg",
+    "image": "DaddyCool_1598465248788/assets/web/daddycool_small.jpg",
     "available": true
   },
   {
@@ -740,7 +740,7 @@
     "name": "Dagomba",
     "artist": "Sorcerer",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ElectroTribalDLC_1598520314239/assets/web/electrotribaldlc_small.jpg",
+    "image": "ElectroTribalDLC_1598520314239/assets/web/electrotribaldlc_small.jpg",
     "available": true
   },
   {
@@ -748,7 +748,7 @@
     "name": "Daisy",
     "artist": "Ashnikko",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Daisy_1656436501569/assets/web/daisy_small.jpg",
+    "image": "Daisy_1656436501569/assets/web/daisy_small.jpg",
     "available": true
   },
   {
@@ -756,7 +756,7 @@
     "name": "Dame Tu Cosita",
     "artist": "El Chombo Ft. Cutty Ranks",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/DameTu_1532088442955/assets/web/dametu_small.jpg",
+    "image": "DameTu_1532088442955/assets/web/dametu_small.jpg",
     "available": true
   },
   {
@@ -764,7 +764,7 @@
     "name": "Dance Monkey",
     "artist": "Tones And I",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/DanceMonkey_1609776588033/assets/web/dancemonkey_small.jpg",
+    "image": "DanceMonkey_1609776588033/assets/web/dancemonkey_small.jpg",
     "available": true
   },
   {
@@ -772,7 +772,7 @@
     "name": "Dance Of The Mirlitons",
     "artist": "The Just Dance Orchestra",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BalletKids_1613481650447/assets/web/balletkids_small.jpg",
+    "image": "BalletKids_1613481650447/assets/web/balletkids_small.jpg",
     "available": true
   },
   {
@@ -780,7 +780,7 @@
     "name": "Dancing Queen - ALTERNATE",
     "artist": "ABBA",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ABBADancingQueen_1598456653395/assets/web/abbadancingqueen_small.jpg",
+    "image": "ABBADancingQueen_1598456653395/assets/web/abbadancingqueen_small.jpg",
     "available": true
   },
   {
@@ -788,7 +788,7 @@
     "name": "Dancing Queen",
     "artist": "ABBA",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/DancingQueen_1534847360632/assets/web/dancingqueen_small.jpg",
+    "image": "DancingQueen_1534847360632/assets/web/dancingqueen_small.jpg",
     "available": true
   },
   {
@@ -796,7 +796,7 @@
     "name": "Danger! High Voltage",
     "artist": "Electric Six",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/HighVoltage_1719247033964/assets/web/highvoltage_small.jpg",
+    "image": "HighVoltage_1719247033964/assets/web/highvoltage_small.jpg",
     "available": false
   },
   {
@@ -804,7 +804,7 @@
     "name": "Dans van de Farao",
     "artist": "K3",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/DansVanDeFarao_1635328389190/assets/web/dansvandefarao_small.jpg",
+    "image": "DansVanDeFarao_1635328389190/assets/web/dansvandefarao_small.jpg",
     "available": true
   },
   {
@@ -812,7 +812,7 @@
     "name": "Dark Horse",
     "artist": "Katy Perry",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/DarkHorse_1671712526127/assets/web/darkhorse_small.jpg",
+    "image": "DarkHorse_1671712526127/assets/web/darkhorse_small.jpg",
     "available": true
   },
   {
@@ -820,7 +820,7 @@
     "name": "Despacito",
     "artist": "Luis Fonsi & Daddy Yankee",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Despacito_1598465519389/assets/web/despacito_small.jpg",
+    "image": "Despacito_1598465519389/assets/web/despacito_small.jpg",
     "available": true
   },
   {
@@ -828,7 +828,7 @@
     "name": "Despacito - ALTERNATE",
     "artist": "Luis Fonsi & Daddy Yankee",
     "difficulty": 4,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/DespacitoALT_1598465663573/assets/web/despacitoalt_small.jpg",
+    "image": "DespacitoALT_1598465663573/assets/web/despacitoalt_small.jpg",
     "available": true
   },
   {
@@ -836,7 +836,7 @@
     "name": "Dibby Dibby Sound",
     "artist": "DJ Fresh & Jay Fay Ft. Ms Dynamite",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/DibbyDibby_1613500317019/assets/web/dibbydibby_small.jpg",
+    "image": "DibbyDibby_1613500317019/assets/web/dibbydibby_small.jpg",
     "available": true
   },
   {
@@ -844,7 +844,7 @@
     "name": "Diggin' In The Dirt",
     "artist": "Stefanie Heinzmann",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Diggin_1598466222468/assets/web/diggin_small.jpg",
+    "image": "Diggin_1598466222468/assets/web/diggin_small.jpg",
     "available": true
   },
   {
@@ -852,7 +852,7 @@
     "name": "Diggy",
     "artist": "Spencer Ludwig",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Diggy_1598466366516/assets/web/diggy_small.jpg",
+    "image": "Diggy_1598466366516/assets/web/diggy_small.jpg",
     "available": true
   },
   {
@@ -860,7 +860,7 @@
     "name": "Disco Inferno",
     "artist": "The Trammps",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/DiscoInferno_1667495908654/assets/web/discoinferno_small.jpg",
+    "image": "DiscoInferno_1667495908654/assets/web/discoinferno_small.jpg",
     "available": true
   },
   {
@@ -868,7 +868,7 @@
     "name": "Don't Call Me Up",
     "artist": "Mabel",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/DontCall_1671016246900/assets/web/dontcall_small.jpg",
+    "image": "DontCall_1671016246900/assets/web/dontcall_small.jpg",
     "available": true
   },
   {
@@ -876,7 +876,7 @@
     "name": "Don't Stop Me Now",
     "artist": "Queen",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/DontStopMe_1598467212474/assets/web/dontstopme_small.jpg",
+    "image": "DontStopMe_1598467212474/assets/web/dontstopme_small.jpg",
     "available": true
   },
   {
@@ -884,7 +884,7 @@
     "name": "Don't Stop Me Now - ALTERNATE",
     "artist": "Queen",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/DontStopMeALT_1598467337219/assets/web/dontstopmealt_small.jpg",
+    "image": "DontStopMeALT_1598467337219/assets/web/dontstopmealt_small.jpg",
     "available": true
   },
   {
@@ -892,7 +892,7 @@
     "name": "Don't Worry",
     "artist": "Madcon Ft. Ray Dalton",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/DontWorryMadcon_1598467592966/assets/web/dontworrymadcon_small.jpg",
+    "image": "DontWorryMadcon_1598467592966/assets/web/dontworrymadcon_small.jpg",
     "available": true
   },
   {
@@ -900,7 +900,7 @@
     "name": "Don't Worry Be Happy",
     "artist": "The Bench Men",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/DontWorry_1598467455360/assets/web/dontworry_small.jpg",
+    "image": "DontWorry_1598467455360/assets/web/dontworry_small.jpg",
     "available": true
   },
   {
@@ -908,7 +908,7 @@
     "name": "Don't You Worry Child",
     "artist": "Swedish House Mafia",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/DontYouWorryDLC_1598467734640/assets/web/dontyouworrydlc_small.jpg",
+    "image": "DontYouWorryDLC_1598467734640/assets/web/dontyouworrydlc_small.jpg",
     "available": true
   },
   {
@@ -916,7 +916,7 @@
     "name": "Down By The Riverside",
     "artist": "The Reverend Horatio Duncan & Amos Sweets",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/RiverSide_1598543743501/assets/web/riverside_small.jpg",
+    "image": "RiverSide_1598543743501/assets/web/riverside_small.jpg",
     "available": true
   },
   {
@@ -924,7 +924,7 @@
     "name": "Dragostea Din Tei",
     "artist": "O-Zone",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/DragosteaDinTei_1598467849613/assets/web/dragosteadintei_small.jpg",
+    "image": "DragosteaDinTei_1598467849613/assets/web/dragosteadintei_small.jpg",
     "available": true
   },
   {
@@ -932,7 +932,7 @@
     "name": "Drop The Mambo",
     "artist": "Diva Carmina",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ElectroMambo_1598520206196/assets/web/electromambo_small.jpg",
+    "image": "ElectroMambo_1598520206196/assets/web/electromambo_small.jpg",
     "available": true
   },
   {
@@ -940,7 +940,7 @@
     "name": "DRUM GO DUM",
     "artist": "K/DA Ft. Aluna, Wolftyla, Bekuh BOOM",
     "difficulty": 4,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/KDance_1613500733136/assets/web/kdance_small.jpg",
+    "image": "KDance_1613500733136/assets/web/kdance_small.jpg",
     "available": true
   },
   {
@@ -948,7 +948,7 @@
     "name": "Dynamite",
     "artist": "BTS (방탄소년단)",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Dynamite_1765812785974/assets/web/dynamite_small.jpg",
+    "image": "Dynamite_1765812785974/assets/web/dynamite_small.jpg",
     "available": true
   },
   {
@@ -956,7 +956,7 @@
     "name": "E.T.",
     "artist": "Katy Perry",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ET_1598520719038/assets/web/et_small.jpg",
+    "image": "ET_1598520719038/assets/web/et_small.jpg",
     "available": true
   },
   {
@@ -964,7 +964,7 @@
     "name": "Epic Sirtaki",
     "artist": "The Bouzouki's",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Sirtaki_1598547106264/assets/web/sirtaki_small.jpg",
+    "image": "Sirtaki_1598547106264/assets/web/sirtaki_small.jpg",
     "available": true
   },
   {
@@ -972,7 +972,7 @@
     "name": "Error",
     "artist": "Natalia Nykiel",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Error_1598520606169/assets/web/error_small.jpg",
+    "image": "Error_1598520606169/assets/web/error_small.jpg",
     "available": true
   },
   {
@@ -980,7 +980,7 @@
     "name": "Euphoria",
     "artist": "Loreen",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Euphoria_1762887412318/assets/web/euphoria_small.jpg",
+    "image": "Euphoria_1762887412318/assets/web/euphoria_small.jpg",
     "available": false
   },
   {
@@ -988,7 +988,7 @@
     "name": "Everybody (Backstreet's Back)",
     "artist": "Millennium Alert",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Everybody_1594383886220/assets/web/everybody_small.jpg",
+    "image": "Everybody_1594383886220/assets/web/everybody_small.jpg",
     "available": true
   },
   {
@@ -996,7 +996,7 @@
     "name": "farfalle",
     "artist": "sangiovanni",
     "difficulty": 4,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Farfalle_1763744162492/assets/web/farfalle_small.jpg",
+    "image": "Farfalle_1763744162492/assets/web/farfalle_small.jpg",
     "available": true
   },
   {
@@ -1004,7 +1004,7 @@
     "name": "Fearless Pirate",
     "artist": "Marine Band",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/FearlessPirateKids_1598521179928/assets/web/fearlesspiratekids_small.jpg",
+    "image": "FearlessPirateKids_1598521179928/assets/web/fearlesspiratekids_small.jpg",
     "available": true
   },
   {
@@ -1012,7 +1012,7 @@
     "name": "Feel So Right",
     "artist": "Imposs Ft. Konshens",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/FeelSoRight_1598521419183/assets/web/feelsoright_small.jpg",
+    "image": "FeelSoRight_1598521419183/assets/web/feelsoright_small.jpg",
     "available": true
   },
   {
@@ -1020,7 +1020,7 @@
     "name": "Fernando",
     "artist": "ABBA",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ABBAFernando_1598457083998/assets/web/abbafernando_small.jpg",
+    "image": "ABBAFernando_1598457083998/assets/web/abbafernando_small.jpg",
     "available": true
   },
   {
@@ -1028,7 +1028,7 @@
     "name": "Fine China",
     "artist": "Chris Brown",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/FineChina_1550758834850/assets/web/finechina_small.jpg",
+    "image": "FineChina_1550758834850/assets/web/finechina_small.jpg",
     "available": true
   },
   {
@@ -1036,7 +1036,7 @@
     "name": "Fine China - ALTERNATE",
     "artist": "Chris Brown",
     "difficulty": 4,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/FineChinaALT_1561397565114/assets/web/finechinaalt_small.jpg",
+    "image": "FineChinaALT_1561397565114/assets/web/finechinaalt_small.jpg",
     "available": true
   },
   {
@@ -1044,7 +1044,7 @@
     "name": "Fire",
     "artist": "LLP Ft. Mike Diamondz",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Fire_1551456533307/assets/web/fire_small.jpg",
+    "image": "Fire_1551456533307/assets/web/fire_small.jpg",
     "available": true
   },
   {
@@ -1052,7 +1052,7 @@
     "name": "Fire On The Floor",
     "artist": "Michelle Delamor",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/FireOnTheDancefloor_1551284337799/assets/web/fireonthedancefloor_small.jpg",
+    "image": "FireOnTheDancefloor_1551284337799/assets/web/fireonthedancefloor_small.jpg",
     "available": true
   },
   {
@@ -1060,7 +1060,7 @@
     "name": "Firework",
     "artist": "Katy Perry",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Firework_1598521537078/assets/web/firework_small.jpg",
+    "image": "Firework_1598521537078/assets/web/firework_small.jpg",
     "available": true
   },
   {
@@ -1068,7 +1068,7 @@
     "name": "Fit But You Know It",
     "artist": "The Streets",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/FitButYouKnow_1581596638800/assets/web/fitbutyouknow_small.jpg",
+    "image": "FitButYouKnow_1581596638800/assets/web/fitbutyouknow_small.jpg",
     "available": true
   },
   {
@@ -1076,7 +1076,7 @@
     "name": "Five Little Monkeys",
     "artist": "The Just Dance Kids",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/KIDSFiveLittleMonkeys_1539947035444/assets/web/kidsfivelittlemonkeys_small.jpg",
+    "image": "KIDSFiveLittleMonkeys_1539947035444/assets/web/kidsfivelittlemonkeys_small.jpg",
     "available": true
   },
   {
@@ -1084,7 +1084,7 @@
     "name": "Flashdance... What A Feeling",
     "artist": "The Girly Team",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/WhatAFeeling_1598617826573/assets/web/whatafeeling_small.jpg",
+    "image": "WhatAFeeling_1598617826573/assets/web/whatafeeling_small.jpg",
     "available": true
   },
   {
@@ -1092,7 +1092,7 @@
     "name": "Flowers",
     "artist": "Miley Cyrus",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Flowers_1763034190866/assets/web/flowers_small.jpg",
+    "image": "Flowers_1763034190866/assets/web/flowers_small.jpg",
     "available": true
   },
   {
@@ -1100,7 +1100,7 @@
     "name": "Flowers - ALTERNATE",
     "artist": "Miley Cyrus",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/FlowersALT_1763034244510/assets/web/flowersalt_small.jpg",
+    "image": "FlowersALT_1763034244510/assets/web/flowersalt_small.jpg",
     "available": true
   },
   {
@@ -1108,7 +1108,7 @@
     "name": "Flying Carpet",
     "artist": "Persian Nights",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/CarpetKids_1618587121597/assets/web/carpetkids_small.jpg",
+    "image": "CarpetKids_1618587121597/assets/web/carpetkids_small.jpg",
     "available": true
   },
   {
@@ -1116,7 +1116,7 @@
     "name": "Follow The White Rabbit",
     "artist": "Madison Beer",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/FollowTheWhiteRabbit_1647266666632/assets/web/followthewhiterabbit_small.jpg",
+    "image": "FollowTheWhiteRabbit_1647266666632/assets/web/followthewhiterabbit_small.jpg",
     "available": true
   },
   {
@@ -1124,7 +1124,7 @@
     "name": "Freeze Please",
     "artist": "The Just Dance School",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/FreezeKids_1592905938669/assets/web/freezekids_small.jpg",
+    "image": "FreezeKids_1592905938669/assets/web/freezekids_small.jpg",
     "available": true
   },
   {
@@ -1132,7 +1132,7 @@
     "name": "Friendly Phantom",
     "artist": "Halloween Thrills",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/GhostKids_1550596319918/assets/web/ghostkids_small.jpg",
+    "image": "GhostKids_1550596319918/assets/web/ghostkids_small.jpg",
     "available": true
   },
   {
@@ -1140,7 +1140,7 @@
     "name": "Funky Robot",
     "artist": "Dancing Bros.",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/FunkyRobotKids_1598521977122/assets/web/funkyrobotkids_small.jpg",
+    "image": "FunkyRobotKids_1598521977122/assets/web/funkyrobotkids_small.jpg",
     "available": true
   },
   {
@@ -1148,7 +1148,7 @@
     "name": "Funkytown",
     "artist": "Sweat Invaders",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/FunkyTown_1598522080122/assets/web/funkytown_small.jpg",
+    "image": "FunkyTown_1598522080122/assets/web/funkytown_small.jpg",
     "available": true
   },
   {
@@ -1156,7 +1156,7 @@
     "name": "Futebol Crazy",
     "artist": "The World Cup Girls",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Futebol_1598522206498/assets/web/futebol_small.jpg",
+    "image": "Futebol_1598522206498/assets/web/futebol_small.jpg",
     "available": true
   },
   {
@@ -1164,7 +1164,7 @@
     "name": "Get Busy",
     "artist": "KOYOTIE",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/GetBusy_1581596728114/assets/web/getbusy_small.jpg",
+    "image": "GetBusy_1581596728114/assets/web/getbusy_small.jpg",
     "available": true
   },
   {
@@ -1172,7 +1172,7 @@
     "name": "Get On The Fire Truck",
     "artist": "The Step Brigade",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/FiremenKids_1652803034503/assets/web/firemenkids_small.jpg",
+    "image": "FiremenKids_1652803034503/assets/web/firemenkids_small.jpg",
     "available": true
   },
   {
@@ -1180,7 +1180,7 @@
     "name": "Ghost In The Keys",
     "artist": "Halloween Thrills",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/GhostInTheKeys_1664207908687/assets/web/ghostinthekeys_small.jpg",
+    "image": "GhostInTheKeys_1664207908687/assets/web/ghostinthekeys_small.jpg",
     "available": true
   },
   {
@@ -1188,7 +1188,7 @@
     "name": "Gimme! Gimme! Gimme! (A Man After Midnight) - ALTERNATE",
     "artist": "ABBA",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ABBAGimmeGimme_1598457244172/assets/web/abbagimmegimme_small.jpg",
+    "image": "ABBAGimmeGimme_1598457244172/assets/web/abbagimmegimme_small.jpg",
     "available": true
   },
   {
@@ -1196,7 +1196,7 @@
     "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
     "artist": "ABBA",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/GimmeGimme_1527089189360/assets/web/gimmegimme_small.jpg",
+    "image": "GimmeGimme_1527089189360/assets/web/gimmegimme_small.jpg",
     "available": true
   },
   {
@@ -1204,7 +1204,7 @@
     "name": "Gimme! Gimme! Gimme! (A Man After Midnight) - Stage Show",
     "artist": "ABBA",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/GimmeGimmeOSC_1598523990857/assets/web/gimmegimmeosc_small.jpg",
+    "image": "GimmeGimmeOSC_1598523990857/assets/web/gimmegimmeosc_small.jpg",
     "available": true
   },
   {
@@ -1212,7 +1212,7 @@
     "name": "Girlfriend",
     "artist": "Avril Lavigne",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Girlfriend_1598524135086/assets/web/girlfriend_small.jpg",
+    "image": "Girlfriend_1598524135086/assets/web/girlfriend_small.jpg",
     "available": true
   },
   {
@@ -1220,7 +1220,7 @@
     "name": "Give That Wolf A Banana",
     "artist": "Subwoolfer",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/GiveThatWolf_1762886899629/assets/web/givethatwolf_small.jpg",
+    "image": "GiveThatWolf_1762886899629/assets/web/givethatwolf_small.jpg",
     "available": true
   },
   {
@@ -1228,7 +1228,7 @@
     "name": "God Is A Woman",
     "artist": "Ariana Grande",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/GodIsAWoman_1581596872046/assets/web/godisawoman_small.jpg",
+    "image": "GodIsAWoman_1581596872046/assets/web/godisawoman_small.jpg",
     "available": true
   },
   {
@@ -1236,7 +1236,7 @@
     "name": "God Is A Woman - ALTERNATE",
     "artist": "Ariana Grande",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/GodIsAWomanALT_1594382900013/assets/web/godisawomanalt_small.jpg",
+    "image": "GodIsAWomanALT_1594382900013/assets/web/godisawomanalt_small.jpg",
     "available": true
   },
   {
@@ -1244,7 +1244,7 @@
     "name": "Good Ones",
     "artist": "Charli XCX",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/GoodOnes_1723042038695/assets/web/goodones_small.jpg",
+    "image": "GoodOnes_1723042038695/assets/web/goodones_small.jpg",
     "available": false
   },
   {
@@ -1252,7 +1252,7 @@
     "name": "Got That",
     "artist": "Gigi Rowe",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/GotThat_1598524763786/assets/web/gotthat_small.jpg",
+    "image": "GotThat_1598524763786/assets/web/gotthat_small.jpg",
     "available": true
   },
   {
@@ -1260,7 +1260,7 @@
     "name": "Hala Bel Khamis",
     "artist": "Maan Barghouth",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/HalaBel_1546942942591/assets/web/halabel_small.jpg",
+    "image": "HalaBel_1546942942591/assets/web/halabel_small.jpg",
     "available": true
   },
   {
@@ -1268,7 +1268,7 @@
     "name": "Hangover (BaBaBa)",
     "artist": "Buraka Som Sistema",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Hangover_1664208402483/assets/web/hangover_small.jpg",
+    "image": "Hangover_1664208402483/assets/web/hangover_small.jpg",
     "available": true
   },
   {
@@ -1276,7 +1276,7 @@
     "name": "Happier Than Ever",
     "artist": "Billie Eilish",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/HappierThanEver_1647517679127/assets/web/happierthanever_small.jpg",
+    "image": "HappierThanEver_1647517679127/assets/web/happierthanever_small.jpg",
     "available": true
   },
   {
@@ -1284,7 +1284,7 @@
     "name": "Happy Birthday",
     "artist": "Top Culture",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BirthdayKids_1581596273938/assets/web/birthdaykids_small.jpg",
+    "image": "BirthdayKids_1581596273938/assets/web/birthdaykids_small.jpg",
     "available": true
   },
   {
@@ -1292,7 +1292,7 @@
     "name": "Happy Farm",
     "artist": "Groove Century",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/HappyFarmKids_1598523587868/assets/web/happyfarmkids_small.jpg",
+    "image": "HappyFarmKids_1598523587868/assets/web/happyfarmkids_small.jpg",
     "available": true
   },
   {
@@ -1300,7 +1300,7 @@
     "name": "Heart Of Glass",
     "artist": "Blondie",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/HeartOfGlass_1598523802712/assets/web/heartofglass_small.jpg",
+    "image": "HeartOfGlass_1598523802712/assets/web/heartofglass_small.jpg",
     "available": true
   },
   {
@@ -1308,7 +1308,7 @@
     "name": "Heat Seeker",
     "artist": "DREAMERS",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/HeatSeeker_1613482197835/assets/web/heatseeker_small.jpg",
+    "image": "HeatSeeker_1613482197835/assets/web/heatseeker_small.jpg",
     "available": true
   },
   {
@@ -1316,7 +1316,7 @@
     "name": "Heavy Cross",
     "artist": "Gossip",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/HeavyCross_1598523949034/assets/web/heavycross_small.jpg",
+    "image": "HeavyCross_1598523949034/assets/web/heavycross_small.jpg",
     "available": true
   },
   {
@@ -1324,7 +1324,7 @@
     "name": "Here Comes The Spy",
     "artist": "The Step Brigade",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/SpyKids_1623695842573/assets/web/spykids_small.jpg",
+    "image": "SpyKids_1623695842573/assets/web/spykids_small.jpg",
     "available": true
   },
   {
@@ -1332,7 +1332,7 @@
     "name": "Hey Ya!",
     "artist": "Outkast",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/HeyYa_1598524376618/assets/web/heyya_small.jpg",
+    "image": "HeyYa_1598524376618/assets/web/heyya_small.jpg",
     "available": true
   },
   {
@@ -1340,7 +1340,7 @@
     "name": "Hit 'Em Up Style (Oops!)",
     "artist": "Blu Cantrell",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/HitEmUp_1598524784354/assets/web/hitemup_small.jpg",
+    "image": "HitEmUp_1598524784354/assets/web/hitemup_small.jpg",
     "available": true
   },
   {
@@ -1348,7 +1348,7 @@
     "name": "Hollaback Girl",
     "artist": "Gwen Stefani",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/HollabackGirl_1762886965493/assets/web/hollabackgirl_small.jpg",
+    "image": "HollabackGirl_1762886965493/assets/web/hollabackgirl_small.jpg",
     "available": true
   },
   {
@@ -1356,7 +1356,7 @@
     "name": "Honey, Honey",
     "artist": "ABBA",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ABBAHoneyHoney_1598457387693/assets/web/abbahoneyhoney_small.jpg",
+    "image": "ABBAHoneyHoney_1598457387693/assets/web/abbahoneyhoney_small.jpg",
     "available": true
   },
   {
@@ -1364,7 +1364,7 @@
     "name": "Hot N Cold (Chick Version)",
     "artist": "Katy Perry",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/HotNCold_1598525533449/assets/web/hotncold_small.jpg",
+    "image": "HotNCold_1598525533449/assets/web/hotncold_small.jpg",
     "available": true
   },
   {
@@ -1372,7 +1372,7 @@
     "name": "Hot Stuff",
     "artist": "Donna Summer",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/HotStuff_1598525667474/assets/web/hotstuff_small.jpg",
+    "image": "HotStuff_1598525667474/assets/web/hotstuff_small.jpg",
     "available": true
   },
   {
@@ -1380,7 +1380,7 @@
     "name": "How Far I'll Go",
     "artist": "Disney's Moana",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/HowFar_1598525941807/assets/web/howfar_small.jpg",
+    "image": "HowFar_1598525941807/assets/web/howfar_small.jpg",
     "available": true
   },
   {
@@ -1388,7 +1388,7 @@
     "name": "Human",
     "artist": "Sevdaliza",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Human_1665576877013/assets/web/human_small.jpg",
+    "image": "Human_1665576877013/assets/web/human_small.jpg",
     "available": true
   },
   {
@@ -1396,7 +1396,7 @@
     "name": "Hungarian Dance No. 5",
     "artist": "Brahms By Just Dance Classical Orchestra",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/HungarianDance_1598526054795/assets/web/hungariandance_small.jpg",
+    "image": "HungarianDance_1598526054795/assets/web/hungariandance_small.jpg",
     "available": true
   },
   {
@@ -1404,7 +1404,7 @@
     "name": "I Feel It Coming",
     "artist": "The Weeknd Ft. Daft Punk",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/IFeelItComing_1550051139960/assets/web/ifeelitcoming_small.jpg",
+    "image": "IFeelItComing_1550051139960/assets/web/ifeelitcoming_small.jpg",
     "available": true
   },
   {
@@ -1412,7 +1412,7 @@
     "name": "I Feel Love",
     "artist": "Donna Summer",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/IFeelLove_1664453245343/assets/web/ifeellove_small.jpg",
+    "image": "IFeelLove_1664453245343/assets/web/ifeellove_small.jpg",
     "available": true
   },
   {
@@ -1420,7 +1420,7 @@
     "name": "I Get Around",
     "artist": "The Beach Boys",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/GetAround_1598523134540/assets/web/getaround_small.jpg",
+    "image": "GetAround_1598523134540/assets/web/getaround_small.jpg",
     "available": true
   },
   {
@@ -1428,7 +1428,7 @@
     "name": "I Kissed a Girl",
     "artist": "Katy Perry",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/IKissed_1598525672799/assets/web/ikissed_small.jpg",
+    "image": "IKissed_1598525672799/assets/web/ikissed_small.jpg",
     "available": true
   },
   {
@@ -1436,7 +1436,7 @@
     "name": "I Kissed a Girl - Stage Show",
     "artist": "Katy Perry",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/IKissedOSC_1598525765093/assets/web/ikissedosc_small.jpg",
+    "image": "IKissedOSC_1598525765093/assets/web/ikissedosc_small.jpg",
     "available": true
   },
   {
@@ -1444,7 +1444,7 @@
     "name": "I Kissed a Girl - ALTERNATE",
     "artist": "Katy Perry",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/IKissedSWT_1598525886075/assets/web/ikissedswt_small.jpg",
+    "image": "IKissedSWT_1598525886075/assets/web/ikissedswt_small.jpg",
     "available": true
   },
   {
@@ -1452,7 +1452,7 @@
     "name": "I Like to Move It",
     "artist": "The Just Dance Kids",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/KIDSILikeToMoveIt_1598528051443/assets/web/kidsiliketomoveit_small.jpg",
+    "image": "KIDSILikeToMoveIt_1598528051443/assets/web/kidsiliketomoveit_small.jpg",
     "available": true
   },
   {
@@ -1460,7 +1460,7 @@
     "name": "I Love Rock N' Roll",
     "artist": "Fast Forward Highway",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ILoveRock_1598525971447/assets/web/iloverock_small.jpg",
+    "image": "ILoveRock_1598525971447/assets/web/iloverock_small.jpg",
     "available": true
   },
   {
@@ -1468,7 +1468,7 @@
     "name": "I Want You Back",
     "artist": "The Jackson 5",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/IWantYouBack_1598527024593/assets/web/iwantyouback_small.jpg",
+    "image": "IWantYouBack_1598527024593/assets/web/iwantyouback_small.jpg",
     "available": true
   },
   {
@@ -1476,7 +1476,7 @@
     "name": "I Will Survive",
     "artist": "Gloria Gaynor",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/IWillSurvive_1598527276942/assets/web/iwillsurvive_small.jpg",
+    "image": "IWillSurvive_1598527276942/assets/web/iwillsurvive_small.jpg",
     "available": true
   },
   {
@@ -1484,7 +1484,7 @@
     "name": "I Will Survive - ALTERNATE",
     "artist": "Gloria Gaynor",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/IWillSurviveOSC_1598527371844/assets/web/iwillsurviveosc_small.jpg",
+    "image": "IWillSurviveOSC_1598527371844/assets/web/iwillsurviveosc_small.jpg",
     "available": true
   },
   {
@@ -1492,7 +1492,7 @@
     "name": "I'm An Albatraoz",
     "artist": "AronChupa",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Albatraoz_1597236003104/assets/web/albatraoz_small.jpg",
+    "image": "Albatraoz_1597236003104/assets/web/albatraoz_small.jpg",
     "available": true
   },
   {
@@ -1500,7 +1500,7 @@
     "name": "I've Been Working On The Railroad",
     "artist": "The Just Dance Kids",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/KIDSWorkingOnTheRailroad_1528127621554/assets/web/kidsworkingontherailroad_small.jpg",
+    "image": "KIDSWorkingOnTheRailroad_1528127621554/assets/web/kidsworkingontherailroad_small.jpg",
     "available": true
   },
   {
@@ -1508,7 +1508,7 @@
     "name": "Idealistic",
     "artist": "Digitalism",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Idealistic_1598525058660/assets/web/idealistic_small.jpg",
+    "image": "Idealistic_1598525058660/assets/web/idealistic_small.jpg",
     "available": true
   },
   {
@@ -1516,7 +1516,7 @@
     "name": "Ievan Polkka",
     "artist": "Hatsune Miku",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/LevanPolkka_1598530589338/assets/web/levanpolkka_small.jpg",
+    "image": "LevanPolkka_1598530589338/assets/web/levanpolkka_small.jpg",
     "available": true
   },
   {
@@ -1524,7 +1524,7 @@
     "name": "If You Wanna Party",
     "artist": "The Just Dancers",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/PARTY_1699006573071/assets/web/party_small.jpg",
+    "image": "PARTY_1699006573071/assets/web/party_small.jpg",
     "available": true
   },
   {
@@ -1532,7 +1532,7 @@
     "name": "If You're Happy And You Know It",
     "artist": "The Just Dance Kids",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/KIDSIfYoureHappy_1528128701753/assets/web/kidsifyourehappy_small.jpg",
+    "image": "KIDSIfYoureHappy_1528128701753/assets/web/kidsifyourehappy_small.jpg",
     "available": true
   },
   {
@@ -1540,7 +1540,7 @@
     "name": "In The Hall Of The Pixel King",
     "artist": "Dancing Bros.",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/8BitRetake_1597235298551/assets/web/8bitretake_small.jpg",
+    "image": "8BitRetake_1597235298551/assets/web/8bitretake_small.jpg",
     "available": true
   },
   {
@@ -1548,7 +1548,7 @@
     "name": "Infernal Galop (Can-Can)",
     "artist": "The Just Dance Orchestra",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/CanCan_1587658432836/assets/web/cancan_small.jpg",
+    "image": "CanCan_1587658432836/assets/web/cancan_small.jpg",
     "available": true
   },
   {
@@ -1556,7 +1556,7 @@
     "name": "Into The Unknown",
     "artist": "Disney's Frozen 2",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Lullaby_1587658526590/assets/web/lullaby_small.jpg",
+    "image": "Lullaby_1587658526590/assets/web/lullaby_small.jpg",
     "available": true
   },
   {
@@ -1564,7 +1564,7 @@
     "name": "Into You",
     "artist": "Ariana Grande",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/IntoYou_1598526530332/assets/web/intoyou_small.jpg",
+    "image": "IntoYou_1598526530332/assets/web/intoyou_small.jpg",
     "available": true
   },
   {
@@ -1572,7 +1572,7 @@
     "name": "Irish Meadow Dance - ALTERNATE",
     "artist": "O'Callaghan's Orchestra",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/SaintPatrick_1598545024792/assets/web/saintpatrick_small.jpg",
+    "image": "SaintPatrick_1598545024792/assets/web/saintpatrick_small.jpg",
     "available": true
   },
   {
@@ -1580,7 +1580,7 @@
     "name": "Irish Meadow Dance",
     "artist": "O'Callaghan's Orchestra",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/SaintPatrickKids_1551284635291/assets/web/saintpatrickkids_small.jpg",
+    "image": "SaintPatrickKids_1551284635291/assets/web/saintpatrickkids_small.jpg",
     "available": true
   },
   {
@@ -1588,7 +1588,7 @@
     "name": "Isidora",
     "artist": "Bog Bog Orkestar",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Zagreb_1598608886297/assets/web/zagreb_small.jpg",
+    "image": "Zagreb_1598608886297/assets/web/zagreb_small.jpg",
     "available": true
   },
   {
@@ -1596,7 +1596,7 @@
     "name": "Istambul",
     "artist": "They Might Be Giants",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/IstanbulQUAT_1598526638968/assets/web/istanbulquat_small.jpg",
+    "image": "IstanbulQUAT_1598526638968/assets/web/istanbulquat_small.jpg",
     "available": true
   },
   {
@@ -1604,7 +1604,7 @@
     "name": "It's Raining Men",
     "artist": "The Weather Girls",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ItsRainingMen_1598526725386/assets/web/itsrainingmen_small.jpg",
+    "image": "ItsRainingMen_1598526725386/assets/web/itsrainingmen_small.jpg",
     "available": true
   },
   {
@@ -1612,7 +1612,7 @@
     "name": "It's the Most Wonderful Time of the Year",
     "artist": "Andy Williams",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/WonderfulTime_1766161150790/assets/web/wonderfultime_small.jpg",
+    "image": "WonderfulTime_1766161150790/assets/web/wonderfultime_small.jpg",
     "available": true
   },
   {
@@ -1620,7 +1620,7 @@
     "name": "I'm Outta Love",
     "artist": "Anastacia",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ImOuttaLove_1673008307456/assets/web/imouttalove_small.jpg",
+    "image": "ImOuttaLove_1673008307456/assets/web/imouttalove_small.jpg",
     "available": true
   },
   {
@@ -1628,7 +1628,7 @@
     "name": "Jai Ho! (You Are My Destiny)",
     "artist": "A R Rahman and The Pussycat Dolls Ft. Nicole Scherzinger",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/JaiHo_1600165617992/assets/web/jaiho_small.jpg",
+    "image": "JaiHo_1600165617992/assets/web/jaiho_small.jpg",
     "available": true
   },
   {
@@ -1636,7 +1636,7 @@
     "name": "Jambo Mambo",
     "artist": "Olé Orquesta",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/JamboMambo_1598530686379/assets/web/jambomambo_small.jpg",
+    "image": "JamboMambo_1598530686379/assets/web/jambomambo_small.jpg",
     "available": true
   },
   {
@@ -1644,7 +1644,7 @@
     "name": "Jingle Bells",
     "artist": "Santa Clones",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/MerryChristmasKids_1542214917058/assets/web/merrychristmaskids_small.jpg",
+    "image": "MerryChristmasKids_1542214917058/assets/web/merrychristmaskids_small.jpg",
     "available": true
   },
   {
@@ -1652,7 +1652,7 @@
     "name": "Joone Khodet",
     "artist": "Black Cats",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Joone_1613481525157/assets/web/joone_small.jpg",
+    "image": "Joone_1613481525157/assets/web/joone_small.jpg",
     "available": true
   },
   {
@@ -1660,7 +1660,7 @@
     "name": "Judas",
     "artist": "Lady Gaga",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Judas_1666964319886/assets/web/judas_small.jpg",
+    "image": "Judas_1666964319886/assets/web/judas_small.jpg",
     "available": true
   },
   {
@@ -1668,7 +1668,7 @@
     "name": "Juice",
     "artist": "Lizzo",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Juice_1613500569315/assets/web/juice_small.jpg",
+    "image": "Juice_1613500569315/assets/web/juice_small.jpg",
     "available": true
   },
   {
@@ -1676,7 +1676,7 @@
     "name": "Juice - VIP",
     "artist": "Lizzo",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/JuiceVIP_1623694773821/assets/web/juicevip_small.jpg",
+    "image": "JuiceVIP_1623694773821/assets/web/juicevip_small.jpg",
     "available": true
   },
   {
@@ -1684,7 +1684,7 @@
     "name": "Juice - ALTERNATE",
     "artist": "Lizzo",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/JuiceALT_1623694480360/assets/web/juicealt_small.jpg",
+    "image": "JuiceALT_1623694480360/assets/web/juicealt_small.jpg",
     "available": true
   },
   {
@@ -1692,7 +1692,7 @@
     "name": "Jungle Dances",
     "artist": "The Sunlight Shakers",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/AdventurerKids_1587568445986/assets/web/adventurerkids_small.jpg",
+    "image": "AdventurerKids_1587568445986/assets/web/adventurerkids_small.jpg",
     "available": true
   },
   {
@@ -1700,7 +1700,7 @@
     "name": "Junto a Ti",
     "artist": "Disney's Violetta",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/JuntoATi_1598531096219/assets/web/juntoati_small.jpg",
+    "image": "JuntoATi_1598531096219/assets/web/juntoati_small.jpg",
     "available": true
   },
   {
@@ -1708,7 +1708,7 @@
     "name": "Just A Gigolo",
     "artist": "Louis Prima",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Gigolo_1598523822401/assets/web/gigolo_small.jpg",
+    "image": "Gigolo_1598523822401/assets/web/gigolo_small.jpg",
     "available": true
   },
   {
@@ -1716,7 +1716,7 @@
     "name": "Just Dance",
     "artist": "Lady Gaga Ft. Colby O'Donis",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/JustDance_1598531294801/assets/web/justdance_small.jpg",
+    "image": "JustDance_1598531294801/assets/web/justdance_small.jpg",
     "available": true
   },
   {
@@ -1724,7 +1724,7 @@
     "name": "Just Dance - Stage Show",
     "artist": "Lady Gaga Ft. Colby O'Donis",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/JustDanceOSC_1598531406028/assets/web/justdanceosc_small.jpg",
+    "image": "JustDanceOSC_1598531406028/assets/web/justdanceosc_small.jpg",
     "available": true
   },
   {
@@ -1732,7 +1732,7 @@
     "name": "Just Dance - ALTERNATE",
     "artist": "Lady Gaga Ft. Colby O'Donis",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/JustDanceSWTDLC_1598531536911/assets/web/justdanceswtdlc_small.jpg",
+    "image": "JustDanceSWTDLC_1598531536911/assets/web/justdanceswtdlc_small.jpg",
     "available": true
   },
   {
@@ -1740,7 +1740,7 @@
     "name": "Kaboom Pow",
     "artist": "Nikki Yanofsky",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/KaboomPow_1598527171118/assets/web/kaboompow_small.jpg",
+    "image": "KaboomPow_1598527171118/assets/web/kaboompow_small.jpg",
     "available": true
   },
   {
@@ -1748,7 +1748,7 @@
     "name": "Karaoke Forever - Future Underworld Mix (卡拉永远OK)",
     "artist": "Alan Tam",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/KaraokeForeverCHN_1551097456039/assets/web/karaokeforeverchn_small.jpg",
+    "image": "KaraokeForeverCHN_1551097456039/assets/web/karaokeforeverchn_small.jpg",
     "available": true
   },
   {
@@ -1756,7 +1756,7 @@
     "name": "Katti Kalandal",
     "artist": "Bollywood",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/KattiKalandal_1598527290346/assets/web/kattikalandal_small.jpg",
+    "image": "KattiKalandal_1598527290346/assets/web/kattikalandal_small.jpg",
     "available": true
   },
   {
@@ -1764,7 +1764,7 @@
     "name": "Keep In Touch",
     "artist": "JD McCrary",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/KeepInTouch_1581597423594/assets/web/keepintouch_small.jpg",
+    "image": "KeepInTouch_1581597423594/assets/web/keepintouch_small.jpg",
     "available": true
   },
   {
@@ -1772,7 +1772,7 @@
     "name": "Keep On Moving",
     "artist": "Michelle Delamor",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/KeepOn_1598527404567/assets/web/keepon_small.jpg",
+    "image": "KeepOn_1598527404567/assets/web/keepon_small.jpg",
     "available": true
   },
   {
@@ -1780,7 +1780,7 @@
     "name": "Kiss You",
     "artist": "One Direction",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/KissYou_1653476708927/assets/web/kissyou_small.jpg",
+    "image": "KissYou_1653476708927/assets/web/kissyou_small.jpg",
     "available": true
   },
   {
@@ -1788,7 +1788,7 @@
     "name": "Kissing Strangers",
     "artist": "DNCE ft. Nicki Minaj",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/KissingStrangers_1598528731032/assets/web/kissingstrangers_small.jpg",
+    "image": "KissingStrangers_1598528731032/assets/web/kissingstrangers_small.jpg",
     "available": true
   },
   {
@@ -1796,7 +1796,7 @@
     "name": "Kissing Strangers - ALTERNATE",
     "artist": "DNCE ft. Nicki Minaj",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/KissingStrangersALT_1598528870922/assets/web/kissingstrangersalt_small.jpg",
+    "image": "KissingStrangersALT_1598528870922/assets/web/kissingstrangersalt_small.jpg",
     "available": true
   },
   {
@@ -1804,7 +1804,7 @@
     "name": "Kitchen Kittens",
     "artist": "Cooking Meow Meow",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ChefKids_1587745682743/assets/web/chefkids_small.jpg",
+    "image": "ChefKids_1587745682743/assets/web/chefkids_small.jpg",
     "available": true
   },
   {
@@ -1812,7 +1812,7 @@
     "name": "Knowing Me, Knowing You",
     "artist": "ABBA",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ABBAKnowingMe_1598457507575/assets/web/abbaknowingme_small.jpg",
+    "image": "ABBAKnowingMe_1598457507575/assets/web/abbaknowingme_small.jpg",
     "available": true
   },
   {
@@ -1820,7 +1820,7 @@
     "name": "Kool Kontact",
     "artist": "Glorious Black Belts",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/KungFunk_1598529115944/assets/web/kungfunk_small.jpg",
+    "image": "KungFunk_1598529115944/assets/web/kungfunk_small.jpg",
     "available": true
   },
   {
@@ -1828,7 +1828,7 @@
     "name": "Kulikitaka",
     "artist": "Toño Rosario",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Kuliki_1602526073893/assets/web/kuliki_small.jpg",
+    "image": "Kuliki_1602526073893/assets/web/kuliki_small.jpg",
     "available": true
   },
   {
@@ -1836,7 +1836,7 @@
     "name": "La Bicicleta",
     "artist": "Carlos Vives & Shakira",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Bicicleta_1598466381395/assets/web/bicicleta_small.jpg",
+    "image": "Bicicleta_1598466381395/assets/web/bicicleta_small.jpg",
     "available": true
   },
   {
@@ -1844,7 +1844,7 @@
     "name": "Lacrimosa",
     "artist": "Apashe",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Lacrimosa_1618587783946/assets/web/lacrimosa_small.jpg",
+    "image": "Lacrimosa_1618587783946/assets/web/lacrimosa_small.jpg",
     "available": true
   },
   {
@@ -1852,7 +1852,7 @@
     "name": "Land of 1000 Dances",
     "artist": "Wilson Pickett",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/AThousandDances_1598460375449/assets/web/athousanddances_small.jpg",
+    "image": "AThousandDances_1598460375449/assets/web/athousanddances_small.jpg",
     "available": true
   },
   {
@@ -1860,7 +1860,7 @@
     "name": "Last Christmas",
     "artist": "Santa Clones",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/LastChristmas_1598529827880/assets/web/lastchristmas_small.jpg",
+    "image": "LastChristmas_1598529827880/assets/web/lastchristmas_small.jpg",
     "available": true
   },
   {
@@ -1868,7 +1868,7 @@
     "name": "Last Friday Night (T.G.I.F.)",
     "artist": "Katy Perry",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/TGIF_1671017311860/assets/web/tgif_small.jpg",
+    "image": "TGIF_1671017311860/assets/web/tgif_small.jpg",
     "available": true
   },
   {
@@ -1876,7 +1876,7 @@
     "name": "Lay All Your Love On Me",
     "artist": "ABBA",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ABBALayAllYourLove_1598457658871/assets/web/abbalayallyourlove_small.jpg",
+    "image": "ABBALayAllYourLove_1598457658871/assets/web/abbalayallyourlove_small.jpg",
     "available": true
   },
   {
@@ -1884,7 +1884,7 @@
     "name": "Le Freak",
     "artist": "Chic",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/LeFreak_1598530214095/assets/web/lefreak_small.jpg",
+    "image": "LeFreak_1598530214095/assets/web/lefreak_small.jpg",
     "available": true
   },
   {
@@ -1892,7 +1892,7 @@
     "name": "Leg Song (腿之歌)",
     "artist": "LULU",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/LegSongCHN_1556885174264/assets/web/legsongchn_small.jpg",
+    "image": "LegSongCHN_1556885174264/assets/web/legsongchn_small.jpg",
     "available": true
   },
   {
@@ -1900,7 +1900,7 @@
     "name": "Leila",
     "artist": "Cheb Salama",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Leila_1598530320203/assets/web/leila_small.jpg",
+    "image": "Leila_1598530320203/assets/web/leila_small.jpg",
     "available": true
   },
   {
@@ -1908,7 +1908,7 @@
     "name": "Let It Go",
     "artist": "Disney's Frozen",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/LetItGo_1586261915374/assets/web/letitgo_small.jpg",
+    "image": "LetItGo_1586261915374/assets/web/letitgo_small.jpg",
     "available": true
   },
   {
@@ -1916,7 +1916,7 @@
     "name": "Let It Go - ALTERNATE",
     "artist": "Disney's Frozen",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/LetItGoDLC_1556878934593/assets/web/letitgodlc_small.jpg",
+    "image": "LetItGoDLC_1556878934593/assets/web/letitgodlc_small.jpg",
     "available": true
   },
   {
@@ -1924,7 +1924,7 @@
     "name": "Let's Save Our Planet",
     "artist": "The Sunlight Shakers",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/EcoloKids_1618587285773/assets/web/ecolokids_small.jpg",
+    "image": "EcoloKids_1618587285773/assets/web/ecolokids_small.jpg",
     "available": true
   },
   {
@@ -1932,7 +1932,7 @@
     "name": "Little Swing",
     "artist": "AronChupa Ft. Little Sis Nora",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/LittleSwing_1598531094027/assets/web/littleswing_small.jpg",
+    "image": "LittleSwing_1598531094027/assets/web/littleswing_small.jpg",
     "available": true
   },
   {
@@ -1940,7 +1940,7 @@
     "name": "Locked Out of Heaven",
     "artist": "Bruno Mars",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/LockedOut_1763655667574/assets/web/lockedout_small.jpg",
+    "image": "LockedOut_1763655667574/assets/web/lockedout_small.jpg",
     "available": true
   },
   {
@@ -1948,7 +1948,7 @@
     "name": "Lollipop",
     "artist": "MIKA",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Lollipop_1598531204747/assets/web/lollipop_small.jpg",
+    "image": "Lollipop_1598531204747/assets/web/lollipop_small.jpg",
     "available": true
   },
   {
@@ -1956,7 +1956,7 @@
     "name": "Louie Louie",
     "artist": "Iggy Pop",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Louie_1648660170710/assets/web/louie_small.jpg",
+    "image": "Louie_1648660170710/assets/web/louie_small.jpg",
     "available": true
   },
   {
@@ -1964,7 +1964,7 @@
     "name": "Love Me Again",
     "artist": "John Newman",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/LoveMeAgain_1654691860234/assets/web/lovemeagain_small.jpg",
+    "image": "LoveMeAgain_1654691860234/assets/web/lovemeagain_small.jpg",
     "available": true
   },
   {
@@ -1972,7 +1972,7 @@
     "name": "Love Ward",
     "artist": "Hatsune Miku",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/LoveWard_1598531545130/assets/web/loveward_small.jpg",
+    "image": "LoveWard_1598531545130/assets/web/loveward_small.jpg",
     "available": true
   },
   {
@@ -1980,7 +1980,7 @@
     "name": "Love You Like A Love Song",
     "artist": "Selena Gomez and The Scene",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/LoveYouLike_1598531686061/assets/web/loveyoulike_small.jpg",
+    "image": "LoveYouLike_1598531686061/assets/web/loveyoulike_small.jpg",
     "available": true
   },
   {
@@ -1988,7 +1988,7 @@
     "name": "Lump",
     "artist": "The Presidents of The United States of America",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Lump_1571844866683/assets/web/lump_small.jpg",
+    "image": "Lump_1571844866683/assets/web/lump_small.jpg",
     "available": true
   },
   {
@@ -1996,7 +1996,7 @@
     "name": "MA ITU",
     "artist": "Stella Mwangi",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/MaItu_1581597892551/assets/web/maitu_small.jpg",
+    "image": "MaItu_1581597892551/assets/web/maitu_small.jpg",
     "available": true
   },
   {
@@ -2004,7 +2004,7 @@
     "name": "Macarena",
     "artist": "The Girly Team",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Macarena_1598532841531/assets/web/macarena_small.jpg",
+    "image": "Macarena_1598532841531/assets/web/macarena_small.jpg",
     "available": true
   },
   {
@@ -2012,7 +2012,7 @@
     "name": "Magic Halloween",
     "artist": "Halloween Thrills",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/MagicHalloweenKids_1598533147918/assets/web/magichalloweenkids_small.jpg",
+    "image": "MagicHalloweenKids_1598533147918/assets/web/magichalloweenkids_small.jpg",
     "available": true
   },
   {
@@ -2020,7 +2020,7 @@
     "name": "Magical Morning",
     "artist": "The Just Dance Orchestra",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/WizardKids_1652877878675/assets/web/wizardkids_small.jpg",
+    "image": "WizardKids_1652877878675/assets/web/wizardkids_small.jpg",
     "available": true
   },
   {
@@ -2028,7 +2028,7 @@
     "name": "Majesty",
     "artist": "Apashe Ft. Wasiu",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Majesty_1701272199892/assets/web/majesty_small.jpg",
+    "image": "Majesty_1701272199892/assets/web/majesty_small.jpg",
     "available": true
   },
   {
@@ -2036,7 +2036,7 @@
     "name": "Make It Jingle",
     "artist": "Big Freedia",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/MakeItJingle_1598533366503/assets/web/makeitjingle_small.jpg",
+    "image": "MakeItJingle_1598533366503/assets/web/makeitjingle_small.jpg",
     "available": true
   },
   {
@@ -2044,7 +2044,7 @@
     "name": "Malibu",
     "artist": "Kim Petras",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Malibu_1657639674902/assets/web/malibu_small.jpg",
+    "image": "Malibu_1657639674902/assets/web/malibu_small.jpg",
     "available": true
   },
   {
@@ -2052,7 +2052,7 @@
     "name": "Mamasita",
     "artist": "Latino Sunset",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Mamasita_1598533497699/assets/web/mamasita_small.jpg",
+    "image": "Mamasita_1598533497699/assets/web/mamasita_small.jpg",
     "available": true
   },
   {
@@ -2060,7 +2060,7 @@
     "name": "Mamma Mia",
     "artist": "ABBA",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ABBAMammaMia_1598457800189/assets/web/abbamammamia_small.jpg",
+    "image": "ABBAMammaMia_1598457800189/assets/web/abbamammamia_small.jpg",
     "available": true
   },
   {
@@ -2068,7 +2068,7 @@
     "name": "Maneater",
     "artist": "Nelly Furtado",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Maneater_1598533786343/assets/web/maneater_small.jpg",
+    "image": "Maneater_1598533786343/assets/web/maneater_small.jpg",
     "available": true
   },
   {
@@ -2076,7 +2076,7 @@
     "name": "Maps",
     "artist": "Maroon 5",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Mad_1598533033211/assets/web/mad_small.jpg",
+    "image": "Mad_1598533033211/assets/web/mad_small.jpg",
     "available": true
   },
   {
@@ -2084,7 +2084,7 @@
     "name": "Mashed Potato Time",
     "artist": "Dee Dee Sharp",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Potato_1598539886134/assets/web/potato_small.jpg",
+    "image": "Potato_1598539886134/assets/web/potato_small.jpg",
     "available": true
   },
   {
@@ -2092,7 +2092,7 @@
     "name": "Me Too",
     "artist": "Meghan Trainor",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/MeToo_1580747541452/assets/web/metoo_small.jpg",
+    "image": "MeToo_1580747541452/assets/web/metoo_small.jpg",
     "available": true
   },
   {
@@ -2100,7 +2100,7 @@
     "name": "Million Dollar Baby",
     "artist": "Ava Max",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/MillionDollarBaby_1763744333088/assets/web/milliondollarbaby_small.jpg",
+    "image": "MillionDollarBaby_1763744333088/assets/web/milliondollarbaby_small.jpg",
     "available": true
   },
   {
@@ -2108,7 +2108,7 @@
     "name": "Milosc W Zakopanem",
     "artist": "Slawomir",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/MiloscW_1551455077963/assets/web/miloscw_small.jpg",
+    "image": "MiloscW_1551455077963/assets/web/miloscw_small.jpg",
     "available": true
   },
   {
@@ -2116,7 +2116,7 @@
     "name": "Mini Yo School",
     "artist": "Dancing Bros.",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/SchoolyardKids_1587568527341/assets/web/schoolyardkids_small.jpg",
+    "image": "SchoolyardKids_1587568527341/assets/web/schoolyardkids_small.jpg",
     "available": true
   },
   {
@@ -2124,7 +2124,7 @@
     "name": "Miss Understood",
     "artist": "Sammie",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Misunderstood_1598535912474/assets/web/misunderstood_small.jpg",
+    "image": "Misunderstood_1598535912474/assets/web/misunderstood_small.jpg",
     "available": true
   },
   {
@@ -2132,7 +2132,7 @@
     "name": "Money, Money, Money",
     "artist": "ABBA",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ABBAMoneyMoney_1598457941148/assets/web/abbamoneymoney_small.jpg",
+    "image": "ABBAMoneyMoney_1598457941148/assets/web/abbamoneymoney_small.jpg",
     "available": true
   },
   {
@@ -2140,7 +2140,7 @@
     "name": "Monster Mash",
     "artist": "The Frighteners (in the style of Bobby 'Boris' Pickett & The Crypt-Kickers)",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/MonsterMash_1598536042453/assets/web/monstermash_small.jpg",
+    "image": "MonsterMash_1598536042453/assets/web/monstermash_small.jpg",
     "available": true
   },
   {
@@ -2148,7 +2148,7 @@
     "name": "Monsters Of Jazz",
     "artist": "Groove Century",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/MonstersAcademyKids_1551453030143/assets/web/monstersacademykids_small.jpg",
+    "image": "MonstersAcademyKids_1551453030143/assets/web/monstersacademykids_small.jpg",
     "available": true
   },
   {
@@ -2156,7 +2156,7 @@
     "name": "Mood",
     "artist": "24kGoldn Ft. iann dior",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Mood_1655119193076/assets/web/mood_small.jpg",
+    "image": "Mood_1655119193076/assets/web/mood_small.jpg",
     "available": true
   },
   {
@@ -2164,7 +2164,7 @@
     "name": "Mood - ALTERNATE",
     "artist": "24kGoldn Ft. iann dior",
     "difficulty": 4,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/MoodALT_1654888433527/assets/web/moodalt_small.jpg",
+    "image": "MoodALT_1654888433527/assets/web/moodalt_small.jpg",
     "available": true
   },
   {
@@ -2172,7 +2172,7 @@
     "name": "MORE",
     "artist": "K/DA Ft. Madison Beer, (G)I-DLE, Lexie Liu, Jaira Burns & Seraphine",
     "difficulty": 4,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/MORE_1666895867213/assets/web/more_small.jpg",
+    "image": "MORE_1666895867213/assets/web/more_small.jpg",
     "available": true
   },
   {
@@ -2180,7 +2180,7 @@
     "name": "Moskau",
     "artist": "Dancing Bros.",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Moskau_1598536143855/assets/web/moskau_small.jpg",
+    "image": "Moskau_1598536143855/assets/web/moskau_small.jpg",
     "available": true
   },
   {
@@ -2188,7 +2188,7 @@
     "name": "Move Your Body",
     "artist": "The Sunlight Shakers",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/MoveYourBody_1750866133093/assets/web/moveyourbody_small.jpg",
+    "image": "MoveYourBody_1750866133093/assets/web/moveyourbody_small.jpg",
     "available": true
   },
   {
@@ -2196,7 +2196,7 @@
     "name": "Move Your Feet",
     "artist": "Junior Senior",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/MoveYourFeet_1598607165701/assets/web/moveyourfeet_small.jpg",
+    "image": "MoveYourFeet_1598607165701/assets/web/moveyourfeet_small.jpg",
     "available": true
   },
   {
@@ -2204,7 +2204,7 @@
     "name": "Moves Like Jagger",
     "artist": "Maroon 5 Ft. Christina Aguilera",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/MovesLikeDLC_1598536291802/assets/web/moveslikedlc_small.jpg",
+    "image": "MovesLikeDLC_1598536291802/assets/web/moveslikedlc_small.jpg",
     "available": true
   },
   {
@@ -2212,7 +2212,7 @@
     "name": "Mr. Blue Sky",
     "artist": "The Sunlight Shakers",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/MrBlueSky_1657726705292/assets/web/mrbluesky_small.jpg",
+    "image": "MrBlueSky_1657726705292/assets/web/mrbluesky_small.jpg",
     "available": true
   },
   {
@@ -2220,7 +2220,7 @@
     "name": "Mr. Saxobeat",
     "artist": "Alexandra Stan",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/MrSaxobeat_1598536583265/assets/web/mrsaxobeat_small.jpg",
+    "image": "MrSaxobeat_1598536583265/assets/web/mrsaxobeat_small.jpg",
     "available": true
   },
   {
@@ -2228,7 +2228,7 @@
     "name": "My Friend The Dragon",
     "artist": "The Just Dance Orchestra",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/MedievalKids_1587410889692/assets/web/medievalkids_small.jpg",
+    "image": "MedievalKids_1587410889692/assets/web/medievalkids_small.jpg",
     "available": true
   },
   {
@@ -2236,7 +2236,7 @@
     "name": "My Main Girl",
     "artist": "MainStreet",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/MainGirlDLC_1598533256804/assets/web/maingirldlc_small.jpg",
+    "image": "MainGirlDLC_1598533256804/assets/web/maingirldlc_small.jpg",
     "available": true
   },
   {
@@ -2244,7 +2244,7 @@
     "name": "My Way",
     "artist": "Domino Saints",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Reebok_1654600993183/assets/web/reebok_small.jpg",
+    "image": "Reebok_1654600993183/assets/web/reebok_small.jpg",
     "available": true
   },
   {
@@ -2252,7 +2252,7 @@
     "name": "Narco",
     "artist": "Blasterjaxx & Timmy Trumpet",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Narco_1574436964102/assets/web/narco_small.jpg",
+    "image": "Narco_1574436964102/assets/web/narco_small.jpg",
     "available": true
   },
   {
@@ -2260,7 +2260,7 @@
     "name": "Never Can Say Goodbye",
     "artist": "Gloria Gaynor",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/NeverCanSay_1527089460975/assets/web/nevercansay_small.jpg",
+    "image": "NeverCanSay_1527089460975/assets/web/nevercansay_small.jpg",
     "available": true
   },
   {
@@ -2268,7 +2268,7 @@
     "name": "New Reality",
     "artist": "Gigi Rowe",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/NewReality_1551456297692/assets/web/newreality_small.jpg",
+    "image": "NewReality_1551456297692/assets/web/newreality_small.jpg",
     "available": true
   },
   {
@@ -2276,7 +2276,7 @@
     "name": "New Rules",
     "artist": "Dua Lipa",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/NewRules_1551457604109/assets/web/newrules_small.jpg",
+    "image": "NewRules_1551457604109/assets/web/newrules_small.jpg",
     "available": true
   },
   {
@@ -2284,7 +2284,7 @@
     "name": "New Rules - ALTERNATE",
     "artist": "Dua Lipa",
     "difficulty": 4,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/NewRulesALT_1555415553362/assets/web/newrulesalt_small.jpg",
+    "image": "NewRulesALT_1555415553362/assets/web/newrulesalt_small.jpg",
     "available": true
   },
   {
@@ -2292,7 +2292,7 @@
     "name": "Nine In The Afternoon",
     "artist": "Panic! At The Disco",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/NineAfternoon_1598538019627/assets/web/nineafternoon_small.jpg",
+    "image": "NineAfternoon_1598538019627/assets/web/nineafternoon_small.jpg",
     "available": true
   },
   {
@@ -2300,7 +2300,7 @@
     "name": "Nitro Bot",
     "artist": "Sentai Express",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/RobotRock_1598543844108/assets/web/robotrock_small.jpg",
+    "image": "RobotRock_1598543844108/assets/web/robotrock_small.jpg",
     "available": true
   },
   {
@@ -2308,7 +2308,7 @@
     "name": "No Tears Left To Cry",
     "artist": "Ariana Grande",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/NoTearsLeft_1570645706647/assets/web/notearsleft_small.jpg",
+    "image": "NoTearsLeft_1570645706647/assets/web/notearsleft_small.jpg",
     "available": true
   },
   {
@@ -2316,7 +2316,7 @@
     "name": "Not Your Ordinary",
     "artist": "Stella Mwangi",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/NotYourOrdinary_1551454979368/assets/web/notyourordinary_small.jpg",
+    "image": "NotYourOrdinary_1551454979368/assets/web/notyourordinary_small.jpg",
     "available": true
   },
   {
@@ -2324,7 +2324,7 @@
     "name": "Oath",
     "artist": "Cher Lloyd Ft. Becky G",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Oath_1598538467481/assets/web/oath_small.jpg",
+    "image": "Oath_1598538467481/assets/web/oath_small.jpg",
     "available": true
   },
   {
@@ -2332,7 +2332,7 @@
     "name": "Oh No!",
     "artist": "Marina and The Diamonds",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/OhNo_1598538600022/assets/web/ohno_small.jpg",
+    "image": "OhNo_1598538600022/assets/web/ohno_small.jpg",
     "available": true
   },
   {
@@ -2340,7 +2340,7 @@
     "name": "Oishii Oishii",
     "artist": "Wanko Ni Mero Mero",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Oishii_1598538762140/assets/web/oishii_small.jpg",
+    "image": "Oishii_1598538762140/assets/web/oishii_small.jpg",
     "available": true
   },
   {
@@ -2348,7 +2348,7 @@
     "name": "Old Town Road (Remix)",
     "artist": "Lil Nas X Ft. Billy Ray Cyrus",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/OldTownRoad_1581598052239/assets/web/oldtownroad_small.jpg",
+    "image": "OldTownRoad_1581598052239/assets/web/oldtownroad_small.jpg",
     "available": true
   },
   {
@@ -2356,7 +2356,7 @@
     "name": "Old Town Road (Remix) - ALTERNATE",
     "artist": "Lil Nas X Ft. Billy Ray Cyrus",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/OldTownRoadALT_1592473571779/assets/web/oldtownroadalt_small.jpg",
+    "image": "OldTownRoadALT_1592473571779/assets/web/oldtownroadalt_small.jpg",
     "available": true
   },
   {
@@ -2364,7 +2364,7 @@
     "name": "Ona Tańczy Dla Mnie",
     "artist": "Weekend",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/OnaTanczyDlaMnie_1598538894572/assets/web/onatanczydlamnie_small.jpg",
+    "image": "OnaTanczyDlaMnie_1598538894572/assets/web/onatanczydlamnie_small.jpg",
     "available": true
   },
   {
@@ -2372,7 +2372,7 @@
     "name": "Only You (And You Alone)",
     "artist": "Love Letter",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/OnlyYou_1672160154430/assets/web/onlyyou_small.jpg",
+    "image": "OnlyYou_1672160154430/assets/web/onlyyou_small.jpg",
     "available": true
   },
   {
@@ -2380,7 +2380,7 @@
     "name": "Oops!... I Did It Again",
     "artist": "The Girly Team",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/IDidItAgainQUAT_1598525164625/assets/web/ididitagainquat_small.jpg",
+    "image": "IDidItAgainQUAT_1598525164625/assets/web/ididitagainquat_small.jpg",
     "available": true
   },
   {
@@ -2388,7 +2388,7 @@
     "name": "Pac-Man",
     "artist": "Dancing Bros.",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/PacMan_1551453101516/assets/web/pacman_small.jpg",
+    "image": "PacMan_1551453101516/assets/web/pacman_small.jpg",
     "available": true
   },
   {
@@ -2396,7 +2396,7 @@
     "name": "Paca Dance",
     "artist": "The Just Dance Band",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/PacaDance_1609777024737/assets/web/pacadance_small.jpg",
+    "image": "PacaDance_1609777024737/assets/web/pacadance_small.jpg",
     "available": true
   },
   {
@@ -2404,7 +2404,7 @@
     "name": "Panini",
     "artist": "Lil Nas X",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Panini_1635428496495/assets/web/panini_small.jpg",
+    "image": "Panini_1635428496495/assets/web/panini_small.jpg",
     "available": true
   },
   {
@@ -2412,7 +2412,7 @@
     "name": "Paparazzi",
     "artist": "Lady Gaga",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Paparazzi_1762887019444/assets/web/paparazzi_small.jpg",
+    "image": "Paparazzi_1762887019444/assets/web/paparazzi_small.jpg",
     "available": true
   },
   {
@@ -2420,7 +2420,7 @@
     "name": "Part of Me",
     "artist": "Katy Perry",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/PartOfMeDLC_1598539507809/assets/web/partofmedlc_small.jpg",
+    "image": "PartOfMeDLC_1598539507809/assets/web/partofmedlc_small.jpg",
     "available": true
   },
   {
@@ -2428,7 +2428,7 @@
     "name": "Pixie Land",
     "artist": "The Sunlight Shakers",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/PixieLandKids_1598539782498/assets/web/pixielandkids_small.jpg",
+    "image": "PixieLandKids_1598539782498/assets/web/pixielandkids_small.jpg",
     "available": true
   },
   {
@@ -2436,7 +2436,7 @@
     "name": "Policeman",
     "artist": "Eva Simons Ft. Konshens",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Policeman_1581598260121/assets/web/policeman_small.jpg",
+    "image": "Policeman_1581598260121/assets/web/policeman_small.jpg",
     "available": true
   },
   {
@@ -2444,7 +2444,7 @@
     "name": "POP/STARS",
     "artist": "K/DA, Madison Beer, (G)I-DLE Ft. Jaira Burns",
     "difficulty": 4,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/PopStars_1666899515073/assets/web/popstars_small.jpg",
+    "image": "PopStars_1666899515073/assets/web/popstars_small.jpg",
     "available": true
   },
   {
@@ -2452,7 +2452,7 @@
     "name": "PoPiPo",
     "artist": "Hatsune Miku",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/PoPiPo_1496940522040/assets/web/popipo_small.jpg",
+    "image": "PoPiPo_1496940522040/assets/web/popipo_small.jpg",
     "available": true
   },
   {
@@ -2460,7 +2460,7 @@
     "name": "Positions",
     "artist": "Ariana Grande",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Positions_1681920191213/assets/web/positions_small.jpg",
+    "image": "Positions_1681920191213/assets/web/positions_small.jpg",
     "available": true
   },
   {
@@ -2468,7 +2468,7 @@
     "name": "Primadonna",
     "artist": "Marina and The Diamonds",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/PrimaDonna_1598540121333/assets/web/primadonna_small.jpg",
+    "image": "PrimaDonna_1598540121333/assets/web/primadonna_small.jpg",
     "available": true
   },
   {
@@ -2476,7 +2476,7 @@
     "name": "Prince Ali",
     "artist": "Disney's Aladdin",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/PrinceAli_1598540248468/assets/web/princeali_small.jpg",
+    "image": "PrinceAli_1598540248468/assets/web/princeali_small.jpg",
     "available": true
   },
   {
@@ -2484,7 +2484,7 @@
     "name": "Professor Pumplestickle",
     "artist": "Nick Phoenix and Thomas Bergersen",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ProfesseurDLC_1598540386133/assets/web/professeurdlc_small.jpg",
+    "image": "ProfesseurDLC_1598540386133/assets/web/professeurdlc_small.jpg",
     "available": true
   },
   {
@@ -2492,7 +2492,7 @@
     "name": "Promiscuous",
     "artist": "Nelly Furtado Ft. Timbaland",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Promiscuous_1598540495780/assets/web/promiscuous_small.jpg",
+    "image": "Promiscuous_1598540495780/assets/web/promiscuous_small.jpg",
     "available": true
   },
   {
@@ -2500,7 +2500,7 @@
     "name": "Proud Mary",
     "artist": "Ike & Tina Turner",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ProudMary_1580730744792/assets/web/proudmary_small.jpg",
+    "image": "ProudMary_1580730744792/assets/web/proudmary_small.jpg",
     "available": true
   },
   {
@@ -2508,7 +2508,7 @@
     "name": "Rabiosa",
     "artist": "Shakira Ft. El Cata",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Rabiosa_1598543053447/assets/web/rabiosa_small.jpg",
+    "image": "Rabiosa_1598543053447/assets/web/rabiosa_small.jpg",
     "available": true
   },
   {
@@ -2516,7 +2516,7 @@
     "name": "Rabiosa - ALTERNATE",
     "artist": "Shakira Ft. El Cata",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/RabiosaALT_1598543179665/assets/web/rabiosaalt_small.jpg",
+    "image": "RabiosaALT_1598543179665/assets/web/rabiosaalt_small.jpg",
     "available": true
   },
   {
@@ -2524,7 +2524,7 @@
     "name": "RADICAL",
     "artist": "Dyro & Dannic",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Radical_1598543354113/assets/web/radical_small.jpg",
+    "image": "Radical_1598543354113/assets/web/radical_small.jpg",
     "available": true
   },
   {
@@ -2532,7 +2532,7 @@
     "name": "RADICAL - ALTERNATE",
     "artist": "Dyro & Dannic",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/RadicalALT_1556820304483/assets/web/radicalalt_small.jpg",
+    "image": "RadicalALT_1556820304483/assets/web/radicalalt_small.jpg",
     "available": true
   },
   {
@@ -2540,7 +2540,7 @@
     "name": "Radioactive",
     "artist": "Imagine Dragons",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Radioactive_1699020094693/assets/web/radioactive_small.jpg",
+    "image": "Radioactive_1699020094693/assets/web/radioactive_small.jpg",
     "available": true
   },
   {
@@ -2548,7 +2548,7 @@
     "name": "Rare",
     "artist": "Selena Gomez",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Rare_1618588189945/assets/web/rare_small.jpg",
+    "image": "Rare_1618588189945/assets/web/rare_small.jpg",
     "available": true
   },
   {
@@ -2556,7 +2556,7 @@
     "name": "Rare - ALTERNATE",
     "artist": "Selena Gomez",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/RareALT_1623750133449/assets/web/rarealt_small.jpg",
+    "image": "RareALT_1623750133449/assets/web/rarealt_small.jpg",
     "available": true
   },
   {
@@ -2564,7 +2564,7 @@
     "name": "Rasputin",
     "artist": "Boney M.",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Rasputin_1598543485724/assets/web/rasputin_small.jpg",
+    "image": "Rasputin_1598543485724/assets/web/rasputin_small.jpg",
     "available": true
   },
   {
@@ -2572,7 +2572,7 @@
     "name": "Rather Be",
     "artist": "Clean Bandit Ft. Jess Glynne",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/RatherBe_1722622180867/assets/web/ratherbe_small.jpg",
+    "image": "RatherBe_1722622180867/assets/web/ratherbe_small.jpg",
     "available": false
   },
   {
@@ -2580,7 +2580,7 @@
     "name": "Risky Business",
     "artist": "Jorge Blanco",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/RiskyBusiness_1598543625565/assets/web/riskybusiness_small.jpg",
+    "image": "RiskyBusiness_1598543625565/assets/web/riskybusiness_small.jpg",
     "available": true
   },
   {
@@ -2588,7 +2588,7 @@
     "name": "Roar",
     "artist": "Katy Perry",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/KiloPapaDLC_1598528598848/assets/web/kilopapadlc_small.jpg",
+    "image": "KiloPapaDLC_1598528598848/assets/web/kilopapadlc_small.jpg",
     "available": true
   },
   {
@@ -2596,7 +2596,7 @@
     "name": "Rock n' Roll Princess",
     "artist": "Fast Forward Highway",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BadAssPrincessKids_1609776942939/assets/web/badassprincesskids_small.jpg",
+    "image": "BadAssPrincessKids_1609776942939/assets/web/badassprincesskids_small.jpg",
     "available": true
   },
   {
@@ -2604,7 +2604,7 @@
     "name": "Rock N Roll",
     "artist": "Avril Lavigne",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/RockNRollDLC_1598544234746/assets/web/rocknrolldlc_small.jpg",
+    "image": "RockNRollDLC_1598544234746/assets/web/rocknrolldlc_small.jpg",
     "available": true
   },
   {
@@ -2612,7 +2612,7 @@
     "name": "Rock N' Roll (Will Take You To The Mountain)",
     "artist": "Skrillex",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/RockNRoll_1598544141477/assets/web/rocknroll_small.jpg",
+    "image": "RockNRoll_1598544141477/assets/web/rocknroll_small.jpg",
     "available": true
   },
   {
@@ -2620,7 +2620,7 @@
     "name": "Run The Night",
     "artist": "Gigi Rowe",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/RunTheNight_1598548992057/assets/web/runthenight_small.jpg",
+    "image": "RunTheNight_1598548992057/assets/web/runthenight_small.jpg",
     "available": true
   },
   {
@@ -2628,7 +2628,7 @@
     "name": "Runaway (U & I)",
     "artist": "Galantis",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Runaway_1623695106394/assets/web/runaway_small.jpg",
+    "image": "Runaway_1623695106394/assets/web/runaway_small.jpg",
     "available": true
   },
   {
@@ -2636,7 +2636,7 @@
     "name": "Safe And Sound",
     "artist": "Capital Cities",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/SafeAndSound_1527089759673/assets/web/safeandsound_small.jpg",
+    "image": "SafeAndSound_1527089759673/assets/web/safeandsound_small.jpg",
     "available": true
   },
   {
@@ -2644,7 +2644,7 @@
     "name": "Sayonara",
     "artist": "Wanko Ni Mero Mero",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/SayonaraRetake_1598545496633/assets/web/sayonararetake_small.jpg",
+    "image": "SayonaraRetake_1598545496633/assets/web/sayonararetake_small.jpg",
     "available": true
   },
   {
@@ -2652,7 +2652,7 @@
     "name": "September",
     "artist": "Equinox Stars",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/September_1598545670302/assets/web/september_small.jpg",
+    "image": "September_1598545670302/assets/web/september_small.jpg",
     "available": true
   },
   {
@@ -2660,7 +2660,7 @@
     "name": "September - ALTERNATE",
     "artist": "Equinox Stars",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/SeptemberALT_1598545799330/assets/web/septemberalt_small.jpg",
+    "image": "SeptemberALT_1598545799330/assets/web/septemberalt_small.jpg",
     "available": true
   },
   {
@@ -2668,7 +2668,7 @@
     "name": "Sexy And I Know It",
     "artist": "LMFAO",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/SexyAndIKnowItDLC_1598545922155/assets/web/sexyandiknowitdlc_small.jpg",
+    "image": "SexyAndIKnowItDLC_1598545922155/assets/web/sexyandiknowitdlc_small.jpg",
     "available": true
   },
   {
@@ -2676,7 +2676,7 @@
     "name": "She's Got Me Dancing",
     "artist": "Tommy Sparks",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/GotMeDancing_1598524652035/assets/web/gotmedancing_small.jpg",
+    "image": "GotMeDancing_1598524652035/assets/web/gotmedancing_small.jpg",
     "available": true
   },
   {
@@ -2684,7 +2684,7 @@
     "name": "Shinobi Cat",
     "artist": "Glorious Black Belts",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/NinjaKids_1551461127246/assets/web/ninjakids_small.jpg",
+    "image": "NinjaKids_1551461127246/assets/web/ninjakids_small.jpg",
     "available": true
   },
   {
@@ -2692,7 +2692,7 @@
     "name": "Shut Up And Dance",
     "artist": "Walk The Moon",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ShutUp_1598546208070/assets/web/shutup_small.jpg",
+    "image": "ShutUp_1598546208070/assets/web/shutup_small.jpg",
     "available": true
   },
   {
@@ -2700,7 +2700,7 @@
     "name": "Side To Side",
     "artist": "Ariana Grande Ft. Nicki Minaj",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/SideTo_1598546703291/assets/web/sideto_small.jpg",
+    "image": "SideTo_1598546703291/assets/web/sideto_small.jpg",
     "available": true
   },
   {
@@ -2708,7 +2708,7 @@
     "name": "Side To Side - ALTERNATE",
     "artist": "Ariana Grande Ft. Nicki Minaj",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/SideToALT_1598546822897/assets/web/sidetoalt_small.jpg",
+    "image": "SideToALT_1598546822897/assets/web/sidetoalt_small.jpg",
     "available": true
   },
   {
@@ -2716,7 +2716,7 @@
     "name": "Skibidi",
     "artist": "Little Big",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Skibidi_1594382756897/assets/web/skibidi_small.jpg",
+    "image": "Skibidi_1594382756897/assets/web/skibidi_small.jpg",
     "available": true
   },
   {
@@ -2724,7 +2724,7 @@
     "name": "Slumber Party",
     "artist": "Britney Spears ft. Tinashe",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/SlumberParty_1555425947737/assets/web/slumberparty_small.jpg",
+    "image": "SlumberParty_1555425947737/assets/web/slumberparty_small.jpg",
     "available": true
   },
   {
@@ -2732,7 +2732,7 @@
     "name": "Smalltown Boy",
     "artist": "Bronski Beat",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/SmalltownBoy_1652874351451/assets/web/smalltownboy_small.jpg",
+    "image": "SmalltownBoy_1652874351451/assets/web/smalltownboy_small.jpg",
     "available": true
   },
   {
@@ -2740,7 +2740,7 @@
     "name": "So Glamorous",
     "artist": "The Girly Team",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/GlamorousCusto_1598524308521/assets/web/glamorouscusto_small.jpg",
+    "image": "GlamorousCusto_1598524308521/assets/web/glamorouscusto_small.jpg",
     "available": true
   },
   {
@@ -2748,7 +2748,7 @@
     "name": "Somethin' Stupid",
     "artist": "Robbie Williams and Nicole Kidman",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/SomethinStupid_1598547256969/assets/web/somethinstupid_small.jpg",
+    "image": "SomethinStupid_1598547256969/assets/web/somethinstupid_small.jpg",
     "available": true
   },
   {
@@ -2756,7 +2756,7 @@
     "name": "SOS",
     "artist": "ABBA",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ABBASOS_1598458056712/assets/web/abbasos_small.jpg",
+    "image": "ABBASOS_1598458056712/assets/web/abbasos_small.jpg",
     "available": true
   },
   {
@@ -2764,7 +2764,7 @@
     "name": "Soul Bossa Nova",
     "artist": "Quincy Jones & His Orchestra",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/SoulBossaNova_1580483715336/assets/web/soulbossanova_small.jpg",
+    "image": "SoulBossaNova_1580483715336/assets/web/soulbossanova_small.jpg",
     "available": true
   },
   {
@@ -2772,7 +2772,7 @@
     "name": "Soul Searchin",
     "artist": "Groove Century",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/SoulSearch_1598547666769/assets/web/soulsearch_small.jpg",
+    "image": "SoulSearch_1598547666769/assets/web/soulsearch_small.jpg",
     "available": true
   },
   {
@@ -2780,7 +2780,7 @@
     "name": "Soy Yo",
     "artist": "Bomba Estéreo",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/SoyYo_1581598475652/assets/web/soyyo_small.jpg",
+    "image": "SoyYo_1581598475652/assets/web/soyyo_small.jpg",
     "available": true
   },
   {
@@ -2788,7 +2788,7 @@
     "name": "Soy Yo - ALTERNATE",
     "artist": "Bomba Estéreo",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/SoyYoALT_1594382621949/assets/web/soyyoalt_small.jpg",
+    "image": "SoyYoALT_1594382621949/assets/web/soyyoalt_small.jpg",
     "available": true
   },
   {
@@ -2796,7 +2796,7 @@
     "name": "Space Cat",
     "artist": "Equinox Stars",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ChasmonauteKids_1618587201336/assets/web/chasmonautekids_small.jpg",
+    "image": "ChasmonauteKids_1618587201336/assets/web/chasmonautekids_small.jpg",
     "available": true
   },
   {
@@ -2804,7 +2804,7 @@
     "name": "Spectronizer",
     "artist": "Sentai Express",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/SpectronizerQUAT_1598547776876/assets/web/spectronizerquat_small.jpg",
+    "image": "SpectronizerQUAT_1598547776876/assets/web/spectronizerquat_small.jpg",
     "available": true
   },
   {
@@ -2812,7 +2812,7 @@
     "name": "Stadium Flow",
     "artist": "Imposs",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/StadiumFlow_1598547961917/assets/web/stadiumflow_small.jpg",
+    "image": "StadiumFlow_1598547961917/assets/web/stadiumflow_small.jpg",
     "available": true
   },
   {
@@ -2820,7 +2820,7 @@
     "name": "Stadium Flow - ALTERNATE",
     "artist": "Imposs",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/StadiumFlowFAN_1602527887343/assets/web/stadiumflowfan_small.jpg",
+    "image": "StadiumFlowFAN_1602527887343/assets/web/stadiumflowfan_small.jpg",
     "available": true
   },
   {
@@ -2828,7 +2828,7 @@
     "name": "STAY",
     "artist": "The Kid LAROI & Justin Bieber",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Stay_1763740863344/assets/web/stay_small.jpg",
+    "image": "Stay_1763740863344/assets/web/stay_small.jpg",
     "available": true
   },
   {
@@ -2836,7 +2836,7 @@
     "name": "STAY - ALTERNATE",
     "artist": "The Kid LAROI & Justin Bieber",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/StayALT_1763744272447/assets/web/stayalt_small.jpg",
+    "image": "StayALT_1763744272447/assets/web/stayalt_small.jpg",
     "available": true
   },
   {
@@ -2844,7 +2844,7 @@
     "name": "Step By Step",
     "artist": "New Kids On The Block",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/StepByStep_1598549036203/assets/web/stepbystep_small.jpg",
+    "image": "StepByStep_1598549036203/assets/web/stepbystep_small.jpg",
     "available": true
   },
   {
@@ -2852,7 +2852,7 @@
     "name": "Stop Movin'",
     "artist": "Royal Republic",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/StopMovin_1587480099569/assets/web/stopmovin_small.jpg",
+    "image": "StopMovin_1587480099569/assets/web/stopmovin_small.jpg",
     "available": true
   },
   {
@@ -2860,7 +2860,7 @@
     "name": "Stop This Fire",
     "artist": "Nius",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/StopThisFire_1762523770388/assets/web/stopthisfire_small.jpg",
+    "image": "StopThisFire_1762523770388/assets/web/stopthisfire_small.jpg",
     "available": true
   },
   {
@@ -2868,7 +2868,7 @@
     "name": "Stupid Love",
     "artist": "Lady Gaga",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/StupidLove_1623695934904/assets/web/stupidlove_small.jpg",
+    "image": "StupidLove_1623695934904/assets/web/stupidlove_small.jpg",
     "available": true
   },
   {
@@ -2876,7 +2876,7 @@
     "name": "Sugar Dance",
     "artist": "The Just Dance Band",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/SugarDance_1598549312429/assets/web/sugardance_small.jpg",
+    "image": "SugarDance_1598549312429/assets/web/sugardance_small.jpg",
     "available": true
   },
   {
@@ -2884,7 +2884,7 @@
     "name": "Summer",
     "artist": "Calvin Harris",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Summer_1598549479721/assets/web/summer_small.jpg",
+    "image": "Summer_1598549479721/assets/web/summer_small.jpg",
     "available": true
   },
   {
@@ -2892,7 +2892,7 @@
     "name": "Summer - ALTERNATE",
     "artist": "Calvin Harris",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/SummerALT_1598549601795/assets/web/summeralt_small.jpg",
+    "image": "SummerALT_1598549601795/assets/web/summeralt_small.jpg",
     "available": true
   },
   {
@@ -2900,7 +2900,7 @@
     "name": "Sunlight",
     "artist": "The Just Dance Band",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Sunlight_1751641758733/assets/web/sunlight_small.jpg",
+    "image": "Sunlight_1751641758733/assets/web/sunlight_small.jpg",
     "available": true
   },
   {
@@ -2908,7 +2908,7 @@
     "name": "Super Trouper",
     "artist": "ABBA",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ABBASuperTrooper_1598458188285/assets/web/abbasupertrooper_small.jpg",
+    "image": "ABBASuperTrooper_1598458188285/assets/web/abbasupertrooper_small.jpg",
     "available": true
   },
   {
@@ -2916,7 +2916,7 @@
     "name": "Survivor",
     "artist": "Destiny's Child",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Survivor_1763115513080/assets/web/survivor_small.jpg",
+    "image": "Survivor_1763115513080/assets/web/survivor_small.jpg",
     "available": true
   },
   {
@@ -2924,7 +2924,7 @@
     "name": "Swan Lake",
     "artist": "The Just Dance Orchestra",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/SwanLakeRemix_1718899479203/assets/web/swanlakeremix_small.jpg",
+    "image": "SwanLakeRemix_1718899479203/assets/web/swanlakeremix_small.jpg",
     "available": false
   },
   {
@@ -2932,7 +2932,7 @@
     "name": "Sweet but Psycho",
     "artist": "Ava Max",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/SweetButPsycho_1722622484505/assets/web/sweetbutpsycho_small.jpg",
+    "image": "SweetButPsycho_1722622484505/assets/web/sweetbutpsycho_small.jpg",
     "available": false
   },
   {
@@ -2940,7 +2940,7 @@
     "name": "Sweet Little Unforgettable Thing",
     "artist": "Bea Miller",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/SweetLittle_1551351471903/assets/web/sweetlittle_small.jpg",
+    "image": "SweetLittle_1551351471903/assets/web/sweetlittle_small.jpg",
     "available": true
   },
   {
@@ -2948,7 +2948,7 @@
     "name": "Só Depois Do Carnaval",
     "artist": "Lexa",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/DoCarnaval_1594395094416/assets/web/docarnaval_small.jpg",
+    "image": "DoCarnaval_1594395094416/assets/web/docarnaval_small.jpg",
     "available": true
   },
   {
@@ -2956,7 +2956,7 @@
     "name": "Take A Chance On Me",
     "artist": "ABBA",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ABBATakeAChance_1598458313916/assets/web/abbatakeachance_small.jpg",
+    "image": "ABBATakeAChance_1598458313916/assets/web/abbatakeachance_small.jpg",
     "available": true
   },
   {
@@ -2964,7 +2964,7 @@
     "name": "Take Me Out",
     "artist": "Franz Ferdinand",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/TakeMeOut_1598549108800/assets/web/takemeout_small.jpg",
+    "image": "TakeMeOut_1598549108800/assets/web/takemeout_small.jpg",
     "available": true
   },
   {
@@ -2972,7 +2972,7 @@
     "name": "Tales Of The Desert",
     "artist": "Persian Nights",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/TheExplorerKids_1551455849275/assets/web/theexplorerkids_small.jpg",
+    "image": "TheExplorerKids_1551455849275/assets/web/theexplorerkids_small.jpg",
     "available": true
   },
   {
@@ -2980,7 +2980,7 @@
     "name": "Te Dominar",
     "artist": "Daya Luz",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/TeDominar_1598549835770/assets/web/tedominar_small.jpg",
+    "image": "TeDominar_1598549835770/assets/web/tedominar_small.jpg",
     "available": true
   },
   {
@@ -2988,7 +2988,7 @@
     "name": "Tel Aviv",
     "artist": "Omer Adam Ft. Arisa",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/TelAviv_1587557847362/assets/web/telaviv_small.jpg",
+    "image": "TelAviv_1587557847362/assets/web/telaviv_small.jpg",
     "available": true
   },
   {
@@ -2996,7 +2996,7 @@
     "name": "Tetris",
     "artist": "Dancing Bros.",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Tetris_1655228910129/assets/web/tetris_small.jpg",
+    "image": "Tetris_1655228910129/assets/web/tetris_small.jpg",
     "available": true
   },
   {
@@ -3004,7 +3004,7 @@
     "name": "That's Not My Name",
     "artist": "The Ting Tings",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ThatsNotMyName_1530709985369/assets/web/thatsnotmyname_small.jpg",
+    "image": "ThatsNotMyName_1530709985369/assets/web/thatsnotmyname_small.jpg",
     "available": true
   },
   {
@@ -3012,7 +3012,7 @@
     "name": "That's The Way (I Like It)",
     "artist": "KC & The Sunshine Band",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ThatsTheWay_1598550588186/assets/web/thatstheway_small.jpg",
+    "image": "ThatsTheWay_1598550588186/assets/web/thatstheway_small.jpg",
     "available": true
   },
   {
@@ -3020,7 +3020,7 @@
     "name": "The Color Lab",
     "artist": "Dancing Bros.",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BubblesKids_1613500073556/assets/web/bubbleskids_small.jpg",
+    "image": "BubblesKids_1613500073556/assets/web/bubbleskids_small.jpg",
     "available": true
   },
   {
@@ -3028,7 +3028,7 @@
     "name": "The Final Countdown",
     "artist": "Europe",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/TheFinalCountdown_1598550831280/assets/web/thefinalcountdown_small.jpg",
+    "image": "TheFinalCountdown_1598550831280/assets/web/thefinalcountdown_small.jpg",
     "available": true
   },
   {
@@ -3036,7 +3036,7 @@
     "name": "The Fox (What Does the Fox Say?)",
     "artist": "Ylvis",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/TheFox_1688402051077/assets/web/thefox_small.jpg",
+    "image": "TheFox_1688402051077/assets/web/thefox_small.jpg",
     "available": true
   },
   {
@@ -3044,7 +3044,7 @@
     "name": "The Frog Concert",
     "artist": "Groove Century",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BandmasterKids_1587746401676/assets/web/bandmasterkids_small.jpg",
+    "image": "BandmasterKids_1587746401676/assets/web/bandmasterkids_small.jpg",
     "available": true
   },
   {
@@ -3052,7 +3052,7 @@
     "name": "The Greatest",
     "artist": "Sia",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/TheGreatest_1598550973017/assets/web/thegreatest_small.jpg",
+    "image": "TheGreatest_1598550973017/assets/web/thegreatest_small.jpg",
     "available": true
   },
   {
@@ -3060,7 +3060,7 @@
     "name": "The Lazy Song",
     "artist": "Bruno Mars",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/TheLazySong_1763744226042/assets/web/thelazysong_small.jpg",
+    "image": "TheLazySong_1763744226042/assets/web/thelazysong_small.jpg",
     "available": true
   },
   {
@@ -3068,7 +3068,7 @@
     "name": "The Lion Sleeps Tonight (Wimoweh)",
     "artist": "The Just Dance Kids",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/KIDSTheLionSleepsTonight_1556814668109/assets/web/kidsthelionsleepstonight_small.jpg",
+    "image": "KIDSTheLionSleepsTonight_1556814668109/assets/web/kidsthelionsleepstonight_small.jpg",
     "available": true
   },
   {
@@ -3076,7 +3076,7 @@
     "name": "The Master Blaster",
     "artist": "Inspector Marceau",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/MasterBlaster_1598607031755/assets/web/masterblaster_small.jpg",
+    "image": "MasterBlaster_1598607031755/assets/web/masterblaster_small.jpg",
     "available": true
   },
   {
@@ -3084,7 +3084,7 @@
     "name": "The Way I Are (Dance With Somebody)",
     "artist": "Bebe Rexha ft. Lil Wayne",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Cottonmouth_1598464460137/assets/web/cottonmouth_small.jpg",
+    "image": "Cottonmouth_1598464460137/assets/web/cottonmouth_small.jpg",
     "available": true
   },
   {
@@ -3092,7 +3092,7 @@
     "name": "The Winner Takes It All",
     "artist": "ABBA",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ABBATheWinner_1598458465463/assets/web/abbathewinner_small.jpg",
+    "image": "ABBATheWinner_1598458465463/assets/web/abbathewinner_small.jpg",
     "available": true
   },
   {
@@ -3100,7 +3100,7 @@
     "name": "Therefore I Am",
     "artist": "Billie Eilish",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ThereforeIAm_1763655722091/assets/web/thereforeiam_small.jpg",
+    "image": "ThereforeIAm_1763655722091/assets/web/thereforeiam_small.jpg",
     "available": true
   },
   {
@@ -3108,7 +3108,7 @@
     "name": "These Boots Are Made For Walkin'",
     "artist": "The Girly Team",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/TheseBoots_1598551098968/assets/web/theseboots_small.jpg",
+    "image": "TheseBoots_1598551098968/assets/web/theseboots_small.jpg",
     "available": true
   },
   {
@@ -3116,7 +3116,7 @@
     "name": "Think About Things",
     "artist": "Daði Freyr",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ThinkAboutThings_1671121835816/assets/web/thinkaboutthings_small.jpg",
+    "image": "ThinkAboutThings_1671121835816/assets/web/thinkaboutthings_small.jpg",
     "available": true
   },
   {
@@ -3124,7 +3124,7 @@
     "name": "This Is Halloween",
     "artist": "Danny Elfman",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/HalloweenQUAT_1598522818306/assets/web/halloweenquat_small.jpg",
+    "image": "HalloweenQUAT_1598522818306/assets/web/halloweenquat_small.jpg",
     "available": true
   },
   {
@@ -3132,7 +3132,7 @@
     "name": "This Is How We Do",
     "artist": "Katy Perry",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ThisIsHow_1598551428342/assets/web/thisishow_small.jpg",
+    "image": "ThisIsHow_1598551428342/assets/web/thisishow_small.jpg",
     "available": true
   },
   {
@@ -3140,7 +3140,7 @@
     "name": "This Is How We Do - ALTERNATE",
     "artist": "Katy Perry",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ThisIsHowALT_1598551581498/assets/web/thisishowalt_small.jpg",
+    "image": "ThisIsHowALT_1598551581498/assets/web/thisishowalt_small.jpg",
     "available": true
   },
   {
@@ -3148,7 +3148,7 @@
     "name": "Tico-Tico no Fubá",
     "artist": "The Frankie Bostello Orchestra",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/TicoTico_1598552021121/assets/web/ticotico_small.jpg",
+    "image": "TicoTico_1598552021121/assets/web/ticotico_small.jpg",
     "available": true
   },
   {
@@ -3156,7 +3156,7 @@
     "name": "Till I Find You",
     "artist": "Austin Mahone",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/FindYou_1527089937113/assets/web/findyou_small.jpg",
+    "image": "FindYou_1527089937113/assets/web/findyou_small.jpg",
     "available": true
   },
   {
@@ -3164,7 +3164,7 @@
     "name": "Till The World Ends",
     "artist": "The Girly Team",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/TillTheWorldEnds_1623752142916/assets/web/tilltheworldends_small.jpg",
+    "image": "TillTheWorldEnds_1623752142916/assets/web/tilltheworldends_small.jpg",
     "available": true
   },
   {
@@ -3172,7 +3172,7 @@
     "name": "Till The World Ends - ALTERNATE",
     "artist": "The Girly Team",
     "difficulty": 4,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/TillTheWorldEndsALT_1623696874120/assets/web/tilltheworldendsalt_small.jpg",
+    "image": "TillTheWorldEndsALT_1623696874120/assets/web/tilltheworldendsalt_small.jpg",
     "available": true
   },
   {
@@ -3180,7 +3180,7 @@
     "name": "TOY",
     "artist": "Netta",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/TOY_1551455172911/assets/web/toy_small.jpg",
+    "image": "TOY_1551455172911/assets/web/toy_small.jpg",
     "available": true
   },
   {
@@ -3188,7 +3188,7 @@
     "name": "Tumbum",
     "artist": "Yemi Alade",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/TumBum_1598552827884/assets/web/tumbum_small.jpg",
+    "image": "TumBum_1598552827884/assets/web/tumbum_small.jpg",
     "available": true
   },
   {
@@ -3196,7 +3196,7 @@
     "name": "Tumbum - ALTERNATE",
     "artist": "Yemi Alade",
     "difficulty": 4,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/TumBumALT_1598552978034/assets/web/tumbumalt_small.jpg",
+    "image": "TumBumALT_1598552978034/assets/web/tumbumalt_small.jpg",
     "available": true
   },
   {
@@ -3204,7 +3204,7 @@
     "name": "Twist And Shake It",
     "artist": "The Girly Team",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/TwistShakeIt_1598553258960/assets/web/twistshakeit_small.jpg",
+    "image": "TwistShakeIt_1598553258960/assets/web/twistshakeit_small.jpg",
     "available": true
   },
   {
@@ -3212,7 +3212,7 @@
     "name": "U Can't Touch This",
     "artist": "Groove Century",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/CantTouchThis_1598462222744/assets/web/canttouchthis_small.jpg",
+    "image": "CantTouchThis_1598462222744/assets/web/canttouchthis_small.jpg",
     "available": true
   },
   {
@@ -3220,7 +3220,7 @@
     "name": "Under The Sea",
     "artist": "Disney's The Little Mermaid",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/UnderTheSea_1598606421190/assets/web/underthesea_small.jpg",
+    "image": "UnderTheSea_1598606421190/assets/web/underthesea_small.jpg",
     "available": true
   },
   {
@@ -3228,7 +3228,7 @@
     "name": "UNO",
     "artist": "Little Big",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Uno_1623697222490/assets/web/uno_small.jpg",
+    "image": "Uno_1623697222490/assets/web/uno_small.jpg",
     "available": true
   },
   {
@@ -3236,7 +3236,7 @@
     "name": "Vodovorot",
     "artist": "XS Project",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Vodovorot_1598435403067/assets/web/vodovorot_small.jpg",
+    "image": "Vodovorot_1598435403067/assets/web/vodovorot_small.jpg",
     "available": true
   },
   {
@@ -3244,7 +3244,7 @@
     "name": "Volar",
     "artist": "Lele Pons Ft. Susan Diaz and Victor Cardenas",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Volar_1618588472685/assets/web/volar_small.jpg",
+    "image": "Volar_1618588472685/assets/web/volar_small.jpg",
     "available": true
   },
   {
@@ -3252,7 +3252,7 @@
     "name": "Voulez-Vous",
     "artist": "ABBA",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ABBAVoulezVous_1598458613216/assets/web/abbavoulezvous_small.jpg",
+    "image": "ABBAVoulezVous_1598458613216/assets/web/abbavoulezvous_small.jpg",
     "available": true
   },
   {
@@ -3260,7 +3260,7 @@
     "name": "Want To Want Me",
     "artist": "Jason Derulo",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/WantToWantMe_1598617315549/assets/web/wanttowantme_small.jpg",
+    "image": "WantToWantMe_1598617315549/assets/web/wanttowantme_small.jpg",
     "available": true
   },
   {
@@ -3268,7 +3268,7 @@
     "name": "Want To Want Me - ALTERNATE",
     "artist": "Jason Derulo",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/WantToWantMeALT_1598608052294/assets/web/wanttowantmealt_small.jpg",
+    "image": "WantToWantMeALT_1598608052294/assets/web/wanttowantmealt_small.jpg",
     "available": true
   },
   {
@@ -3276,7 +3276,7 @@
     "name": "Want U Back",
     "artist": "Cher Lloyd Ft. Astro",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/WantUBack_1598617448943/assets/web/wantuback_small.jpg",
+    "image": "WantUBack_1598617448943/assets/web/wantuback_small.jpg",
     "available": true
   },
   {
@@ -3284,7 +3284,7 @@
     "name": "Watch Me (Whip/Nae Nae)",
     "artist": "Silentó",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/NaeNae_1598537315509/assets/web/naenae_small.jpg",
+    "image": "NaeNae_1598537315509/assets/web/naenae_small.jpg",
     "available": true
   },
   {
@@ -3292,7 +3292,7 @@
     "name": "Watch Me (Whip/Nae Nae) - ALTERNATE",
     "artist": "Silentó",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/NaeNaeALT_1598537441807/assets/web/naenaealt_small.jpg",
+    "image": "NaeNaeALT_1598537441807/assets/web/naenaealt_small.jpg",
     "available": true
   },
   {
@@ -3300,7 +3300,7 @@
     "name": "Waterloo",
     "artist": "ABBA",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ABBAWaterloo_1598458764014/assets/web/abbawaterloo_small.jpg",
+    "image": "ABBAWaterloo_1598458764014/assets/web/abbawaterloo_small.jpg",
     "available": true
   },
   {
@@ -3308,7 +3308,7 @@
     "name": "Waterval",
     "artist": "K3",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Langkawi_1652802800291/assets/web/langkawi_small.jpg",
+    "image": "Langkawi_1652802800291/assets/web/langkawi_small.jpg",
     "available": true
   },
   {
@@ -3316,7 +3316,7 @@
     "name": "We Go Well Together",
     "artist": "Goldheart",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/KIDSWeGoWellTogether_1598528402260/assets/web/kidswegowelltogether_small.jpg",
+    "image": "KIDSWeGoWellTogether_1598528402260/assets/web/kidswegowelltogether_small.jpg",
     "available": true
   },
   {
@@ -3324,7 +3324,7 @@
     "name": "We No Speak Americano",
     "artist": "Hit The Electro Beat",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Americano_1597236267341/assets/web/americano_small.jpg",
+    "image": "Americano_1597236267341/assets/web/americano_small.jpg",
     "available": true
   },
   {
@@ -3332,7 +3332,7 @@
     "name": "We No Speak Americano - ALTERNATE",
     "artist": "Hit The Electro Beat",
     "difficulty": 4,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/AmericanoFAN_1597236379702/assets/web/americanofan_small.jpg",
+    "image": "AmericanoFAN_1597236379702/assets/web/americanofan_small.jpg",
     "available": true
   },
   {
@@ -3340,7 +3340,7 @@
     "name": "We R Who We R",
     "artist": "Ke$ha",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/WeRWhoWeRDLC_1598617576263/assets/web/werwhowerdlc_small.jpg",
+    "image": "WeRWhoWeRDLC_1598617576263/assets/web/werwhowerdlc_small.jpg",
     "available": true
   },
   {
@@ -3348,7 +3348,7 @@
     "name": "Wet Tennis",
     "artist": "Sofi Tukker",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/WetTennis_1762888085512/assets/web/wettennis_small.jpg",
+    "image": "WetTennis_1762888085512/assets/web/wettennis_small.jpg",
     "available": true
   },
   {
@@ -3356,7 +3356,7 @@
     "name": "What Is Love",
     "artist": "Ultraclub 90",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/WhatIsLove_1598609043944/assets/web/whatislove_small.jpg",
+    "image": "WhatIsLove_1598609043944/assets/web/whatislove_small.jpg",
     "available": true
   },
   {
@@ -3364,7 +3364,7 @@
     "name": "What Is Love - ALTERNATE",
     "artist": "Ultraclub 90",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/WhatIsLoveALT_1598609152333/assets/web/whatislovealt_small.jpg",
+    "image": "WhatIsLoveALT_1598609152333/assets/web/whatislovealt_small.jpg",
     "available": true
   },
   {
@@ -3372,7 +3372,7 @@
     "name": "Wheels On the Bus",
     "artist": "The Just Dance Kids",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/KIDSWheelsOnTheBus_1598528507722/assets/web/kidswheelsonthebus_small.jpg",
+    "image": "KIDSWheelsOnTheBus_1598528507722/assets/web/kidswheelsonthebus_small.jpg",
     "available": true
   },
   {
@@ -3380,7 +3380,7 @@
     "name": "When The Rain Begins To Fall",
     "artist": "Sky Trucking",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/WhenTheRain_1598609301780/assets/web/whentherain_small.jpg",
+    "image": "WhenTheRain_1598609301780/assets/web/whentherain_small.jpg",
     "available": true
   },
   {
@@ -3388,7 +3388,7 @@
     "name": "White Noise",
     "artist": "Disclosure Ft. AlunaGeorge",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/WhiteNoise_1592834273252/assets/web/whitenoise_small.jpg",
+    "image": "WhiteNoise_1592834273252/assets/web/whitenoise_small.jpg",
     "available": true
   },
   {
@@ -3396,7 +3396,7 @@
     "name": "Who Let the Dogs Out",
     "artist": "The Sunlight Shakers",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/DogsOut_1598522294471/assets/web/dogsout_small.jpg",
+    "image": "DogsOut_1598522294471/assets/web/dogsout_small.jpg",
     "available": true
   },
   {
@@ -3404,7 +3404,7 @@
     "name": "William Tell Overture",
     "artist": "Rossini",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/WilliamTell_1598609144842/assets/web/williamtell_small.jpg",
+    "image": "WilliamTell_1598609144842/assets/web/williamtell_small.jpg",
     "available": true
   },
   {
@@ -3412,7 +3412,7 @@
     "name": "Witch",
     "artist": "Apashe Ft. Alina Pash",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Witch_1719246878056/assets/web/witch_small.jpg",
+    "image": "Witch_1719246878056/assets/web/witch_small.jpg",
     "available": false
   },
   {
@@ -3420,7 +3420,7 @@
     "name": "Woman",
     "artist": "Doja Cat",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Woman_1763655549072/assets/web/woman_small.jpg",
+    "image": "Woman_1763655549072/assets/web/woman_small.jpg",
     "available": true
   },
   {
@@ -3428,7 +3428,7 @@
     "name": "Woman - ALTERNATE",
     "artist": "Doja Cat",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/WomanALT_1763655614917/assets/web/womanalt_small.jpg",
+    "image": "WomanALT_1763655614917/assets/web/womanalt_small.jpg",
     "available": true
   },
   {
@@ -3436,7 +3436,7 @@
     "name": "Wouldn't It Be Nice",
     "artist": "The Sunlight Shakers",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BeNice_1699468171120/assets/web/benice_small.jpg",
+    "image": "BeNice_1699468171120/assets/web/benice_small.jpg",
     "available": true
   },
   {
@@ -3444,7 +3444,7 @@
     "name": "X",
     "artist": "Nicky Jam & J Balvin",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/EQUIS_1633597901746/assets/web/equis_small.jpg",
+    "image": "EQUIS_1633597901746/assets/web/equis_small.jpg",
     "available": true
   },
   {
@@ -3452,7 +3452,7 @@
     "name": "XMas Tree",
     "artist": "Bollywood Santa",
     "difficulty": 3,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BollywoodXmas_1598467298160/assets/web/bollywoodxmas_small.jpg",
+    "image": "BollywoodXmas_1598467298160/assets/web/bollywoodxmas_small.jpg",
     "available": true
   },
   {
@@ -3460,7 +3460,7 @@
     "name": "Yameen Yasar - ALTERNATE",
     "artist": "DJ Absi",
     "difficulty": 4,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/HabibiYaeniALT_1623692265460/assets/web/habibiyaenialt_small.jpg",
+    "image": "HabibiYaeniALT_1623692265460/assets/web/habibiyaenialt_small.jpg",
     "available": true
   },
   {
@@ -3468,7 +3468,7 @@
     "name": "YO LE LLEGO",
     "artist": "J Balvin, Bad Bunny",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/YoLeLlego_1623697569053/assets/web/yolellego_small.jpg",
+    "image": "YoLeLlego_1623697569053/assets/web/yolellego_small.jpg",
     "available": true
   },
   {
@@ -3476,7 +3476,7 @@
     "name": "You Can Dance",
     "artist": "Chilly Gonzales",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/YouCanDance_1671207414834/assets/web/youcandance_small.jpg",
+    "image": "YouCanDance_1671207414834/assets/web/youcandance_small.jpg",
     "available": true
   },
   {
@@ -3484,7 +3484,7 @@
     "name": "You Can't Hurry Love",
     "artist": "The Supremes",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/CantHurryLove_1598461856067/assets/web/canthurrylove_small.jpg",
+    "image": "CantHurryLove_1598461856067/assets/web/canthurrylove_small.jpg",
     "available": true
   },
   {
@@ -3492,7 +3492,7 @@
     "name": "You Don't Know Me",
     "artist": "Jax Jones Ft. RAYE",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/DontKnowMe_1561474431353/assets/web/dontknowme_small.jpg",
+    "image": "DontKnowMe_1561474431353/assets/web/dontknowme_small.jpg",
     "available": true
   },
   {
@@ -3500,7 +3500,7 @@
     "name": "You Make Me Feel...",
     "artist": "Cobra Starship Ft. Sabi",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/YouMakeMeFeelDLC_1598608374838/assets/web/youmakemefeeldlc_small.jpg",
+    "image": "YouMakeMeFeelDLC_1598608374838/assets/web/youmakemefeeldlc_small.jpg",
     "available": true
   },
   {
@@ -3508,7 +3508,7 @@
     "name": "You Never Can Tell",
     "artist": "A. Caveman & The Backseats",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/YouNeverCan_1527090596858/assets/web/younevercan_small.jpg",
+    "image": "YouNeverCan_1527090596858/assets/web/younevercan_small.jpg",
     "available": true
   },
   {
@@ -3516,7 +3516,7 @@
     "name": "You Spin Me Round (Like A Record)",
     "artist": "Dead Or Alive",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/SpinMeRound_1529323274875/assets/web/spinmeround_small.jpg",
+    "image": "SpinMeRound_1529323274875/assets/web/spinmeround_small.jpg",
     "available": true
   },
   {
@@ -3524,7 +3524,7 @@
     "name": "You're The One That I Want",
     "artist": "From The Movie Grease",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/YoureTheOne_1598608638548/assets/web/youretheone_small.jpg",
+    "image": "YoureTheOne_1598608638548/assets/web/youretheone_small.jpg",
     "available": true
   },
   {
@@ -3532,7 +3532,7 @@
     "name": "You've Got A Friend In Me",
     "artist": "Disney Pixar's Toy Story",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/FriendInMe_1613482327483/assets/web/friendinme_small.jpg",
+    "image": "FriendInMe_1613482327483/assets/web/friendinme_small.jpg",
     "available": true
   },
   {
@@ -3540,7 +3540,7 @@
     "name": "Zooby Doo",
     "artist": "Tigermonkey",
     "difficulty": 1,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ZoobyDoo_1699006407084/assets/web/zoobydoo_small.jpg",
+    "image": "ZoobyDoo_1699006407084/assets/web/zoobydoo_small.jpg",
     "available": true
   },
   {
@@ -3548,7 +3548,7 @@
     "name": "Ça Plane Pour Moi",
     "artist": "Bob Platine",
     "difficulty": 2,
-    "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/CaPlane_1550662626108/assets/web/caplane_small.jpg",
+    "image": "CaPlane_1550662626108/assets/web/caplane_small.jpg",
     "available": true
   },
   {
@@ -3556,7 +3556,7 @@
     "name": "Seven",
     "artist": "Jung Kook ft. Latto",
     "difficulty": 2,
-    "image": "https://jdn-location.justdancenow.com/songs/Seven_1767973947815/assets/web/seven_small.jpg",
+    "image": "Seven_1767973947815/assets/web/seven_small.jpg",
     "available": true
   },
   {
@@ -3564,7 +3564,7 @@
     "name": "Provenza",
     "artist": "KAROL G",
     "difficulty": 2,
-    "image": "https://jdn-location.justdancenow.com/songs/Provenza_1762887581212/assets/web/provenza_small.jpg",
+    "image": "Provenza_1762887581212/assets/web/provenza_small.jpg",
     "available": true
   },
   {
@@ -3572,7 +3572,7 @@
     "name": "Love Me Land",
     "artist": "Zara Larsson",
     "difficulty": 3,
-    "image": "https://jdn-location.justdancenow.com/songs/LoveMeLand_1767973889268/assets/web/lovemeland_small.jpg",
+    "image": "LoveMeLand_1767973889268/assets/web/lovemeland_small.jpg",
     "available": true
   },
   {
@@ -3580,7 +3580,7 @@
     "name": "Todo De Ti",
     "artist": "Rauw Alejandro",
     "difficulty": 2,
-    "image": "https://jdn-location.justdancenow.com/songs/TodoDeTi_1770417565716/assets/web/tododeti_small.jpg",
+    "image": "TodoDeTi_1770417565716/assets/web/tododeti_small.jpg",
     "available": true
   },
   {
@@ -3588,7 +3588,7 @@
     "name": "Feel So Close",
     "artist": "Calvin Harris",
     "difficulty": 1,
-    "image": "https://jdn-location.justdancenow.com/songs/FeelSoClose_1762964851696/assets/web/feelsoclose_small.jpg",
+    "image": "FeelSoClose_1762964851696/assets/web/feelsoclose_small.jpg",
     "available": true
   },
   {
@@ -3596,7 +3596,7 @@
     "name": "Treasure",
     "artist": "Bruno Mars",
     "difficulty": 2,
-    "image": "https://jdn-location.justdancenow.com/songs/Treasure_1769784886690/assets/web/treasure_small.jpg",
+    "image": "Treasure_1769784886690/assets/web/treasure_small.jpg",
     "available": true
   },
   {
@@ -3604,7 +3604,7 @@
     "name": "Gimme More",
     "artist": "Britney Spears",
     "difficulty": 2,
-    "image": "https://jdn-location.justdancenow.com/songs/GimmeMore_1768927857682/assets/web/gimmemore_small.jpg",
+    "image": "GimmeMore_1768927857682/assets/web/gimmemore_small.jpg",
     "available": true
   },
   {
@@ -3612,7 +3612,7 @@
     "name": "WANNABE",
     "artist": "ITZY",
     "difficulty": 4,
-    "image": "https://jdn-location.justdancenow.com/songs/WannabeItzy_1771251212038/assets/web/wannabeitzy_small.jpg",
+    "image": "WannabeItzy_1771251212038/assets/web/wannabeitzy_small.jpg",
     "available": true
   },
   {
@@ -3620,7 +3620,7 @@
     "name": "Can't Tame Her",
     "artist": "Zara Larsson",
     "difficulty": 1,
-    "image": "https://jdn-location.justdancenow.com/songs/CantTameHer_1763022225507/assets/web/canttameher_small.jpg",
+    "image": "CantTameHer_1763022225507/assets/web/canttameher_small.jpg",
     "available": true
   },
   {
@@ -3628,7 +3628,7 @@
     "name": "When Will My Life Begin?",
     "artist": "Disney's Tangled",
     "difficulty": 1,
-    "image": "https://jdn-location.justdancenow.com/songs/WillMyLifeBegin_1762888145904/assets/web/willmylifebegin_small.jpg",
+    "image": "WillMyLifeBegin_1762888145904/assets/web/willmylifebegin_small.jpg",
     "available": true
   },
   {
@@ -3636,7 +3636,7 @@
     "name": "Trenulețul",
     "artist": "Zdob şi Zdub & Advahov Brothers",
     "difficulty": 2,
-    "image": "https://jdn-location.justdancenow.com/songs/Trenuletul_1762887229739/assets/web/trenuletul_small.jpg",
+    "image": "Trenuletul_1762887229739/assets/web/trenuletul_small.jpg",
     "available": true
   },
   {
@@ -3644,7 +3644,7 @@
     "name": "Wasabi",
     "artist": "Little Mix",
     "difficulty": 2,
-    "image": "https://jdn-location.justdancenow.com/songs/Wasabi_1775070329928/assets/web/wasabi_small.jpg",
+    "image": "Wasabi_1775070329928/assets/web/wasabi_small.jpg",
     "available": true
   },
   {
@@ -3652,7 +3652,7 @@
     "name": "vampire",
     "artist": "Olivia Rodrigo",
     "difficulty": 2,
-    "image": "https://jdn-location.justdancenow.com/songs/Vampire_1775070374671/assets/web/vampire_small.jpg",
+    "image": "Vampire_1775070374671/assets/web/vampire_small.jpg",
     "available": true
   },
   {
@@ -3660,7 +3660,7 @@
     "name": "Chaise Longue",
     "artist": "Wet Leg",
     "difficulty": 2,
-    "image": "https://jdn-location.justdancenow.com/songs/ChaiseLongue_1763022288316/assets/web/chaiselongue_small.jpg",
+    "image": "ChaiseLongue_1763022288316/assets/web/chaiselongue_small.jpg",
     "available": true
   },
   {
@@ -3668,7 +3668,7 @@
     "name": "All Star",
     "artist": "Smash Mouth",
     "difficulty": 1,
-    "image": "https://jdn-location.justdancenow.com/songs/AllStar_1775477596665/assets/web/allstar_small.jpg",
+    "image": "AllStar_1775477596665/assets/web/allstar_small.jpg",
     "available": true
   },
   {
@@ -3676,7 +3676,7 @@
     "name": "Espresso",
     "artist": "Sabrina Carpenter",
     "difficulty": 1,
-    "image": "https://jdn-location.justdancenow.com/songs/Espresso_1775477547545/assets/web/espresso_small.jpg",
+    "image": "Espresso_1775477547545/assets/web/espresso_small.jpg",
     "available": true
   },
   {
@@ -3684,7 +3684,7 @@
     "name": "Poker Face",
     "artist": "Lady Gaga",
     "difficulty": 1,
-    "image": "https://jdn-location.justdancenow.com/songs/PokerFace_1764864712700/assets/web/pokerface_small.jpg",
+    "image": "PokerFace_1764864712700/assets/web/pokerface_small.jpg",
     "available": true
   }
 ]

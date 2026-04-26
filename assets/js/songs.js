@@ -7,6 +7,8 @@ const difficulties = [
 
 const songs = [];
 
+const baseUrl = "https://jdn-location.justdancenow.com/songs/";
+
 const btnSearch = document.getElementById("btnSearch");
 const txtFilter = document.getElementById("txtFilter");
 const container = document.getElementById('main-container');
@@ -38,7 +40,7 @@ const showSongs = (list) => {
         const btnCopy = createElement("button", "btnCopy", "Copy Song");
 
         const songImg = document.createElement('img');
-        songImg.src = element.image;
+        songImg.src = `${baseUrl}${element.image}`;
 
         btnCopy.addEventListener("click", () => {
             const text = `${element.name}`;
