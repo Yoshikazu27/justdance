@@ -27,6 +27,11 @@ button {
   cursor: pointer;
 }
 
+h1, h2 {
+  color: #E79C08;
+  margin: 0.32rem 0;
+}
+
 #main-container {
   width: 100%;
   height: calc(100% - 40px - 1rem); /* height: calc(100% - 63px - 1rem); */
@@ -42,7 +47,7 @@ button {
   margin: 0.5rem 2%;
 }
 
-#txtFilter {
+#txt-filter {
   width: 70%;
   max-width: 300px;
   height: 40px;
@@ -53,7 +58,7 @@ button {
   font-size: 20px;
 }
 
-#btnSearch {
+#btn-search {
   width: 40px;
   height: 40px;
 }
@@ -70,7 +75,7 @@ button {
   margin: 0 0.25rem;
 }
 
-.songDiv {
+.song-div {
   height: auto;
   max-height: 186px;
   float: left;
@@ -81,48 +86,100 @@ button {
   justify-content: center;
 }
 
-.songDiv > img {
+.song-div > img {
   width: 120px;
   height: 150px;
   margin: 0.75rem;
 }
 
-.descriptionDiv {
+.description-div {
   width: calc(100% - 1.5rem - 1.5rem - 120px);
   margin: 0.75rem;
 }
 
-.descriptionDiv p {
+.description-div p {
   width: 100%;
   margin: 0 0 0.5rem 0;
   color: bisque;
 }
 
-.songName {
+.song-name {
   font-size: 24px;
   font-weight: bold;
 }
 
-.songArtist {
+.song-artist {
   font-size: 20px;
 }
 
-.songDifficulty {
+.song-difficulty {
   font-size: 16px;
 }
 
-.btnCopy {
+.btn-copy,
+.btn-preview {
   font-size: 20px;
 }
 
+.btn-preview {
+  margin-left: 0.5rem;
+}
+
+#preview-modal {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-content {
+  width: fit-content;
+  max-width: 80vw;
+  height: auto;
+  background: radial-gradient(#ffffff, #E6C166);
+  padding: 15px;
+  border-radius: 8px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+video {
+  max-width: 65vw;
+  max-height: 65vh;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+#modal-button-div {
+  margin-top: 0.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#modal-button-div button {
+  font-size: 25px;
+  margin: 0 0.75rem;
+  background: radial-gradient(#F56D20, #EFC80A);
+  border-color: #FFEBB2;
+}
+
 @media (max-width: 991px) {
-  .songDiv {
+  .song-div {
     width: calc(100% - 4% - 12px);
   }
 }
 
 @media (min-width: 992px) {
-  .songDiv {
+  .song-div {
     width: calc(50% - 4% - 12px);
   }
 }

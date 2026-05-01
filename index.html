@@ -11,12 +11,23 @@
   </head>
   <body>
     <div class="filter-bar">
-      <input type="text" id="txtFilter" autocomplete="off"  />
-      <button id="btnSearch">
+      <input type="text" id="txt-filter" autocomplete="off" />
+      <button id="btn-search">
         <i class="fa fa-search"></i>
       </button>
     </div>
     <div id="main-container"></div>
+
+    <div id="preview-modal">
+      <div class="modal-content">
+        <h1 id="name-title"></h1>
+        <h2 id="artist-title"></h2>
+        <video id="video-preview"></video>
+        <div id="modal-button-div">
+          <button id="btn-close">Close</button>
+        </div>
+      </div>
+    </div>
 
     <script src="assets/js/songs.js"></script>
   </body>
