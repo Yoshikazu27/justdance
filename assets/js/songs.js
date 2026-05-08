@@ -31,7 +31,6 @@
             const list = await response.json();
 
             songs.push(...list
-                .filter(song => song.available)
                 .sort((a, b) =>
                     a.name.localeCompare(b.name, undefined, { sensitivity: "base" })
                 )
