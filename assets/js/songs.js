@@ -7,9 +7,6 @@ const difficulties = [
 
 const songs = [];
 
-const imageUrl = "https://cdn-jdnplus-global.ramaprojects.ru/cdn/songs/";
-const previewUrl = "https://cdn-jdnplus-global.ramaprojects.ru/sneakpeak/";
-
 const btnSearch = document.getElementById("btn-search");
 const txtFilter = document.getElementById("txt-filter");
 const container = document.getElementById("main-container");
@@ -20,19 +17,27 @@ const videoPreview = document.getElementById("video-preview");
 const modalButtonDiv = document.getElementById("modal-button-div");
 const closeButton = document.getElementById("btn-close");
 
-const initialize = () => {
-    fetch('./assets/files/songs-list.json')
-        .then(response => response.json())
-        .then(list => {
-            list.forEach((element) => {
-                if (element.available) songs.push(element);
-            });
-            songs.sort((a, b) =>
+const initialize = async () => {
+    try {
+        const response = await fetch('https://justdance-api.onrender.com/api/songs');
+
+        if (!response.ok) {
+            throw new Error(`HTTP error: ${response.status}`);
+        }
+
+        const list = await response.json();
+
+        songs.push(...list
+            .filter(song => song.available)
+            .sort((a, b) =>
                 a.name.localeCompare(b.name, undefined, { sensitivity: "base" })
-            );
-            showSongs(songs);
-        })
-        .catch(err => console.error(err));
+            )
+        );
+
+        showSongs(songs);
+    } catch (error) {
+        console.error(`Error loading songs: ${error}`);
+    }
 }
 
 const showSongs = (list) => {
@@ -48,11 +53,11 @@ const showSongs = (list) => {
         const btnPreview = createElement("button", "btn-preview", "Preview");
 
         const songImg = document.createElement('img');
-        songImg.src = `${imageUrl}${element.image}`;
+        songImg.src = element.image;
 
         btnCopy.addEventListener("click", () => copyText(`${element.name}`, btnCopy));
 
-        btnPreview.addEventListener("click", () => setVideo(element.name, element.artist,`${previewUrl}${element.preview}`));
+        btnPreview.addEventListener("click", () => setVideo(element.name, element.artist, element.preview));
 
         songDiv.append(songImg);
         songDiv.append(descriptionDiv);
@@ -106,7 +111,8 @@ const closeModal = () => {
 
 const filterSongs = () => {
     const textValue = txtFilter.value.toLowerCase();
-    const newList = songs.filter(x => x.name.toLowerCase().includes(textValue) || x.artist.toLowerCase().includes(textValue));
+    //const newList = songs.filter(x => x.name.toLowerCase().includes(textValue) || x.artist.toLowerCase().includes(textValue));
+    const newList = songs.filter((song) => [song.name, song.artist].some(y => y.toLowerCase().includes(textValue)));
     showSongs(newList);
 }
 
