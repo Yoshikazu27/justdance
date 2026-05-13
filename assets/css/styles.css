@@ -27,17 +27,50 @@ button {
   cursor: pointer;
 }
 
-h1, h2 {
-  color: #E79C08;
+h1,
+h2 {
+  color: #e79c08;
   margin: 0.32rem 0;
 }
 
 #main-container {
   width: 100%;
-  height: calc(100% - 40px - 1rem); /* height: calc(100% - 63px - 1rem); */
+  height: calc(100% - 40px - 1rem - 6.5vh - 0.4rem);
   overflow-y: auto;
   display: flex;
   flex-wrap: wrap;
+}
+
+#paginator {
+  width: calc(100% - 0.4rem);
+  height: 6.5vh;
+  float: left;
+  padding: 0.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#paginator span {
+  font-size: 22px;
+  color: turquoise;
+  pointer-events: none;
+  padding: 0 6px;
+  opacity: 0.6;
+}
+
+.page {
+  width: 38px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 19px;
+  border-radius: 8px;
+  margin: 0 0.35rem;
+}
+
+.page.selected {
+  border: 4px outset turquoise;
 }
 
 .filter-bar {
@@ -142,7 +175,7 @@ h1, h2 {
   width: fit-content;
   max-width: 80vw;
   height: auto;
-  background: radial-gradient(#ffffff, #E6C166);
+  background: radial-gradient(#ffffff, #e6c166);
   padding: 15px;
   border-radius: 8px;
   position: relative;
@@ -168,8 +201,8 @@ video {
 #modal-button-div button {
   font-size: 25px;
   margin: 0 0.75rem;
-  background: radial-gradient(#F56D20, #EFC80A);
-  border-color: #FFEBB2;
+  background: radial-gradient(#f56d20, #efc80a);
+  border-color: #ffebb2;
 }
 
 @media (max-width: 991px) {
