@@ -1,6 +1,6 @@
 (() => {
     'use strict'
-    
+
     const difficulties = [
         "EASY",
         "NORMAL",
@@ -8,7 +8,10 @@
         "EXPERT"
     ];
 
-    const songs = [];
+    let songs = [];
+    const paginator = [];
+
+    const songsPerPage = 100;
 
     const btnSearch = document.getElementById("btn-search");
     const txtFilter = document.getElementById("txt-filter");
@@ -19,23 +22,14 @@
     const videoPreview = document.getElementById("video-preview");
     const modalButtonDiv = document.getElementById("modal-button-div");
     const closeButton = document.getElementById("btn-close");
+    const paginatorDiv = document.getElementById("paginator");
+
+    const allSongsUrl = 'https://justdance-api.onrender.com/api/songs';
+    const filterUrl = 'https://justdance-api.onrender.com/api/songs/filter/';
 
     const initialize = async () => {
         try {
-            const response = await fetch('https://justdance-api.onrender.com/api/songs');
-
-            if (!response.ok) {
-                throw new Error(`HTTP error: ${response.status}`);
-            }
-
-            const list = await response.json();
-
-            songs.push(...list
-                .sort((a, b) =>
-                    a.name.localeCompare(b.name, undefined, { sensitivity: "base" })
-                )
-            );
-
+            await getSongs();
             showSongs(songs);
         } catch (error) {
             console.error(`Error loading songs: ${error}`);
@@ -70,7 +64,29 @@
             descriptionDiv.append(btnPreview);
             container.append(songDiv);
         });
+
+        // setPages(list);
     }
+
+    // const setPages = (list) => {
+    //     const pages = Math.ceil(list.length / songsPerPage);
+
+    //     paginatorDiv.innerHTML = "";
+
+    //     for (let i = 0; i < pages; i++) {
+    //         const content = list.slice(i * songsPerPage, (i + 1) * songsPerPage);
+
+    //         paginator.push({
+    //             page: i + 1,
+    //             songs: content
+    //         });
+
+    //         const pageButton = document.createElement('button');
+    //         pageButton.classList.add('page');
+    //         pageButton.innerText = i + 1;
+    //         paginatorDiv.append(pageButton);
+    //     }
+    // }
 
     const copyText = (text, btn) => {
         navigator.clipboard.writeText(text)
@@ -111,10 +127,29 @@
         modalButtonDiv.removeChild(modalButtonDiv.querySelector(".btn-copy"));
     }
 
-    const filterSongs = () => {
+    const filterSongs = async () => {
         const textValue = txtFilter.value.toLowerCase();
-        const newList = songs.filter(song => [song.name, song.artist].some(y => y.toLowerCase().includes(textValue)));
-        showSongs(newList);
+        await getSongs(textValue);
+        showSongs(songs);
+    }
+
+    const getSongs = async (filter) => {
+        songs = [];
+
+        const response = await fetch((filter !== undefined && filter.length > 0)
+            ? `${filterUrl}${filter}` : allSongsUrl);
+
+        if (!response.ok) {
+            throw new Error(`HTTP error: ${response.status}`);
+        }
+
+        const list = await response.json();
+
+        songs.push(...list
+            .sort((a, b) =>
+                a.name.localeCompare(b.name, undefined, { sensitivity: "base" })
+            )
+        );
     }
 
     const createElement = (element, className, htmlText = null) => {
@@ -126,8 +161,8 @@
 
     initialize();
 
-    txtFilter.addEventListener("keydown", (event) => {
-        if (event.key === "Enter") filterSongs();
+    txtFilter.addEventListener("keydown", async (event) => {
+        if (event.key === "Enter") await filterSongs();
     });
     btnSearch.addEventListener("click", filterSongs);
     closeButton.addEventListener("click", closeModal);
